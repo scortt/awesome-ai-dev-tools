@@ -13,6 +13,7 @@ This list is not a general "awesome open source" directory. It focuses on tools 
 - [Model Context Protocol](#model-context-protocol)
 - [Codebase Search And Indexing](#codebase-search-and-indexing)
 - [Review And Change-Inspection UI](#review-and-change-inspection-ui)
+- [Design, Prototyping, And Artifacts](#design-prototyping-and-artifacts)
 - [Browser And UI Automation](#browser-and-ui-automation)
 - [Testing, Evals, And Benchmarks](#testing-evals-and-benchmarks)
 - [Local Models And Inference](#local-models-and-inference)
@@ -84,6 +85,10 @@ Preferred entry format:
 ## Review And Change-Inspection UI
 
 - [Pierre](https://github.com/pierrecomputer/pierre) - Open source TypeScript monorepo behind AI-friendly code review primitives such as diff rendering and file tree rendering. `TypeScript` `License: see repository`
+
+## Design, Prototyping, And Artifacts
+
+- [Open Design](https://github.com/nexu-io/open-design) - Local-first design workflow that turns coding-agent CLIs into generators for prototypes, decks, mobile screens, dashboards, media, and exportable artifacts. `TypeScript` `Apache-2.0`
 
 ## Browser And UI Automation
 
