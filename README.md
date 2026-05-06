@@ -89,6 +89,7 @@ Preferred entry format:
 ## Design, Prototyping, And Artifacts
 
 - [Open Design](https://github.com/nexu-io/open-design) - Local-first design workflow that turns coding-agent CLIs into generators for prototypes, decks, mobile screens, dashboards, media, and exportable artifacts. `TypeScript` `Apache-2.0`
+- [Open Slide](https://github.com/1weiho/open-slide) - Agent-native React slide framework with fixed-canvas authoring, comments, present mode, and HTML/PDF export. `TypeScript` `MIT`
 
 ## Browser And UI Automation
 
