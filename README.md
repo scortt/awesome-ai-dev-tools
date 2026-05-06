@@ -9,6 +9,7 @@ This list is not a general "awesome open source" directory. It focuses on tools 
 - [Scope](#scope)
 - [Selection Criteria](#selection-criteria)
 - [Coding Agents And AI IDEs](#coding-agents-and-ai-ides)
+- [Agent Operations And Maintenance](#agent-operations-and-maintenance)
 - [Agent Runtimes And Frameworks](#agent-runtimes-and-frameworks)
 - [Model Context Protocol](#model-context-protocol)
 - [Codebase Search And Indexing](#codebase-search-and-indexing)
@@ -63,6 +64,10 @@ Preferred entry format:
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open platform for software development agents with code editing, shell, browser, and workflow automation. `Python` `MIT`
 - [Cline](https://github.com/cline/cline) - VS Code coding agent that can edit files, run commands, use browser context, and call MCP tools with user approval. `TypeScript` `Apache-2.0`
 - [Continue](https://github.com/continuedev/continue) - Open source AI code assistant for IDEs with model, context, and autocomplete customization. `TypeScript` `Apache-2.0`
+
+## Agent Operations And Maintenance
+
+- [Keep Codex Fast](https://github.com/vibeforge1111/keep-codex-fast) - Backup-first Codex skill for inspecting, handing off, archiving, and recovering local Codex state without unsafe deletion. `Python` `MIT`
 
 ## Agent Runtimes And Frameworks
 
