@@ -16,6 +16,7 @@ This list is not a general "awesome open source" directory. It focuses on tools 
 - [Browser And UI Automation](#browser-and-ui-automation)
 - [Testing, Evals, And Benchmarks](#testing-evals-and-benchmarks)
 - [Local Models And Inference](#local-models-and-inference)
+- [Audio And Multimodal Workflows](#audio-and-multimodal-workflows)
 - [Prompt, Context, And Memory](#prompt-context-and-memory)
 - [Docs, Knowledge, And RAG](#docs-knowledge-and-rag)
 - [Sandboxes And Secure Execution](#sandboxes-and-secure-execution)
@@ -103,6 +104,10 @@ Preferred entry format:
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Efficient local inference for LLMs across CPUs and GPUs. `C++` `MIT`
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput LLM serving engine for production and research use. `Python` `Apache-2.0`
 - [LiteLLM](https://github.com/BerriAI/litellm) - Unified API gateway and SDK for calling many model providers. `Python` `MIT`
+
+## Audio And Multimodal Workflows
+
+- [Voice Pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for speech recognition, translation, subtitle generation, TTS, voice cloning, and multilingual dubbing workflows. `Python` `GPL-3.0`
 
 ## Prompt, Context, And Memory
 
