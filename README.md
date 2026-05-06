@@ -14,6 +14,7 @@ This list is not a general "awesome open source" directory. It focuses on tools 
 - [Codebase Search And Indexing](#codebase-search-and-indexing)
 - [Review And Change-Inspection UI](#review-and-change-inspection-ui)
 - [Design, Prototyping, And Artifacts](#design-prototyping-and-artifacts)
+- [3D And Asset Generation](#3d-and-asset-generation)
 - [Browser And UI Automation](#browser-and-ui-automation)
 - [Testing, Evals, And Benchmarks](#testing-evals-and-benchmarks)
 - [Local Models And Inference](#local-models-and-inference)
@@ -90,6 +91,10 @@ Preferred entry format:
 
 - [Open Design](https://github.com/nexu-io/open-design) - Local-first design workflow that turns coding-agent CLIs into generators for prototypes, decks, mobile screens, dashboards, media, and exportable artifacts. `TypeScript` `Apache-2.0`
 - [Open Slide](https://github.com/1weiho/open-slide) - Agent-native React slide framework with fixed-canvas authoring, comments, present mode, and HTML/PDF export. `TypeScript` `MIT`
+
+## 3D And Asset Generation
+
+- [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - Image-to-3D asset generation system with open weights, training code, mesh generation, PBR texture synthesis, Gradio app, and API server. `Python` `License: see repository`
 
 ## Browser And UI Automation
 
