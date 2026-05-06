@@ -12,6 +12,7 @@ This list is not a general "awesome open source" directory. It focuses on tools 
 - [Agent Runtimes And Frameworks](#agent-runtimes-and-frameworks)
 - [Model Context Protocol](#model-context-protocol)
 - [Codebase Search And Indexing](#codebase-search-and-indexing)
+- [Review And Change-Inspection UI](#review-and-change-inspection-ui)
 - [Browser And UI Automation](#browser-and-ui-automation)
 - [Testing, Evals, And Benchmarks](#testing-evals-and-benchmarks)
 - [Local Models And Inference](#local-models-and-inference)
@@ -78,6 +79,10 @@ Preferred entry format:
 - [Sourcegraph Cody](https://github.com/sourcegraph/cody) - AI coding assistant backed by code search and repository context. `TypeScript` `Apache-2.0`
 - [Grep App](https://github.com/grep-app/grep) - Fast source-code search service useful for agent and human code navigation. `Go` `MIT`
 - [Serena](https://github.com/oraios/serena) - Coding-agent toolkit focused on semantic code retrieval and editing. `Python` `MIT`
+
+## Review And Change-Inspection UI
+
+- [Pierre](https://github.com/pierrecomputer/pierre) - Open source TypeScript monorepo behind AI-friendly code review primitives such as diff rendering and file tree rendering. `TypeScript` `License: see repository`
 
 ## Browser And UI Automation
 
