@@ -120,6 +120,7 @@ Preferred entry format:
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for connecting LLM applications to private and domain-specific data. `Python` `MIT`
 - [Haystack](https://github.com/deepset-ai/haystack) - Framework for building search, RAG, and agentic knowledge applications. `Python` `Apache-2.0`
 - [DocsGPT](https://github.com/arc53/DocsGPT) - Open source assistant for querying documentation and internal knowledge. `Python` `MIT`
+- [RaTeX](https://github.com/erweixin/RaTeX) - Pure Rust KaTeX-compatible math renderer for native, web, server-side PNG/SVG/PDF, and AI document workflows. `Rust` `License: see repository`
 
 ## Sandboxes And Secure Execution
 
