@@ -100,6 +100,7 @@ Preferred entry format:
 ## 3D And Asset Generation
 
 - [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - Image-to-3D asset generation system with open weights, training code, mesh generation, PBR texture synthesis, Gradio app, and API server. `Python` `License: see repository`
+- [3DCellForge](https://github.com/huangserva/3DCellForge) - Browser-based 3D cell generation and exploration studio with React Three Fiber, GLB import/export, and optional Tripo or Hunyuan3D image-to-3D backends. `JavaScript` `MIT`
 
 ## Browser And UI Automation
 
