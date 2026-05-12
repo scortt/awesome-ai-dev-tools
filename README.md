@@ -139,6 +139,7 @@ Preferred entry format:
 - [Haystack](https://github.com/deepset-ai/haystack) - Framework for building search, RAG, and agentic knowledge applications. `Python` `Apache-2.0`
 - [DocsGPT](https://github.com/arc53/DocsGPT) - Open source assistant for querying documentation and internal knowledge. `Python` `MIT`
 - [RaTeX](https://github.com/erweixin/RaTeX) - Pure Rust KaTeX-compatible math renderer for native, web, server-side PNG/SVG/PDF, and AI document workflows. `Rust` `License: see repository`
+- [Dataset Viewer](https://github.com/stardustai/dataset-viewer) - Tauri desktop viewer for streaming, searching, and previewing massive datasets from local files, S3, WebDAV, SSH, SMB, and Hugging Face. `TypeScript` `MIT`
 
 ## Sandboxes And Secure Execution
 
