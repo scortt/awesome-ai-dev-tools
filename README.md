@@ -96,6 +96,7 @@ Preferred entry format:
 
 - [Open Design](https://github.com/nexu-io/open-design) - Local-first design workflow that turns coding-agent CLIs into generators for prototypes, decks, mobile screens, dashboards, media, and exportable artifacts. `TypeScript` `Apache-2.0`
 - [Open Slide](https://github.com/1weiho/open-slide) - Agent-native React slide framework with fixed-canvas authoring, comments, present mode, and HTML/PDF export. `TypeScript` `MIT`
+- [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - Single-binary Office document toolkit that lets AI agents create, inspect, edit, and render Word, Excel, and PowerPoint files without Microsoft Office. `C#` `Apache-2.0`
 - [Guizang PPT Skill](https://github.com/op7418/guizang-ppt-skill) - Claude Code and Codex skill for generating single-file horizontal-swipe HTML decks, presentation visuals, and social covers from prompts. `HTML` `MIT`
 
 ## 3D And Asset Generation
