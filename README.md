@@ -68,6 +68,7 @@ Preferred entry format:
 ## Agent Operations And Maintenance
 
 - [Keep Codex Fast](https://github.com/vibeforge1111/keep-codex-fast) - Backup-first Codex skill for inspecting, handing off, archiving, and recovering local Codex state without unsafe deletion. `Python` `MIT`
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local TUI for measuring AI coding agent cost, tokens, latency, failures, reports, and CI gates. `Go` `MIT`
 
 ## Agent Runtimes And Frameworks
 
