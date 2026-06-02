@@ -4,6 +4,9 @@
 
 [中文版](README.zh-CN.md)
 
+Also see [Tutorials And Learning Resources](TUTORIALS.md) for courses,
+cookbooks, guides, and learning repositories that complement this tool list.
+
 This list is not a general "awesome open source" directory. It focuses on tools that change the development workflow itself: coding agents, agent runtimes, model context, codebase indexing, AI-assisted review, browser automation, evals, local model infrastructure, and the glue that makes AI useful inside real engineering loops.
 
 ## Contents
