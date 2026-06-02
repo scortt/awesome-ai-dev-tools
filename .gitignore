@@ -5,3 +5,4 @@ build/
 .env
 .env.*
 !.env.example
+reports/starred-candidates.md
