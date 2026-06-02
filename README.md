@@ -15,6 +15,7 @@ This list is not a general "awesome open source" directory. It focuses on tools 
 - [Agent Runtimes And Frameworks](#agent-runtimes-and-frameworks)
 - [Model Context Protocol](#model-context-protocol)
 - [Codebase Search And Indexing](#codebase-search-and-indexing)
+- [Developer CLI And Terminal Tools](#developer-cli-and-terminal-tools)
 - [Review And Change-Inspection UI](#review-and-change-inspection-ui)
 - [Design, Prototyping, And Artifacts](#design-prototyping-and-artifacts)
 - [3D And Asset Generation](#3d-and-asset-generation)
@@ -116,6 +117,16 @@ Preferred entry format:
 - [Devv](https://github.com/devv-ai/devv) - AI-powered developer search engine for finding implementation details, APIs, and engineering references. `License: see repository`
 - [CocoIndex](https://github.com/cocoindex-io/cocoindex) - Incremental indexing engine for long-horizon agents that need fresh, queryable project context. `Python` `Apache-2.0`
 
+## Developer CLI And Terminal Tools
+
+- [Doxx](https://github.com/bgreenwell/doxx) - Terminal tool for safely inspecting `.docx` document contents without Microsoft Office. `Rust` `MIT`
+- [Mole](https://github.com/tw93/Mole) - Terminal utility for cleaning, uninstalling, analyzing, optimizing, and monitoring macOS. `Shell` `MIT`
+- [tproxy](https://github.com/kevwan/tproxy) - CLI tool for proxying and analyzing TCP connections during debugging. `Go` `MIT`
+- [Piku](https://github.com/piku/piku) - Tiny self-hosted PaaS for deploying applications to your own servers with `git push`. `Python` `MIT`
+- [VizTracer](https://github.com/gaogaotiantian/viztracer) - Python tracing and profiling tool that records execution and renders interactive traces. `Python` `Apache-2.0`
+- [kitty](https://github.com/kovidgoyal/kitty) - Fast, scriptable, GPU-based terminal emulator for local development workflows. `Python` `GPL-3.0`
+- [OpenAI Proxy](https://github.com/egoist/openai-proxy) - Edge proxy for routing OpenAI API calls through Cloudflare Workers or Vercel Edge. `TypeScript` `License: see repository`
+
 ## Review And Change-Inspection UI
 
 - [Pierre](https://github.com/pierrecomputer/pierre) - Open source TypeScript monorepo behind AI-friendly code review primitives such as diff rendering and file tree rendering. `TypeScript` `License: see repository`
@@ -153,6 +164,7 @@ Preferred entry format:
 - [Maestro](https://github.com/mobile-dev-inc/Maestro) - Declarative automation framework for mobile and web end-to-end flows. `Kotlin` `Apache-2.0`
 - [OpenAI CUA Sample App](https://github.com/openai/openai-cua-sample-app) - Sample application for using computer-using agents across browser and desktop environments. `TypeScript` `MIT`
 - [Self Operating Computer](https://github.com/OthersideAI/self-operating-computer) - Multimodal framework for letting AI operate a computer through visual context and actions. `Python` `MIT`
+- [KasmVNC](https://github.com/kasmtech/KasmVNC) - Web-accessible VNC server and client for secure remote desktop environments. `C++` `GPL-2.0`
 
 ## Testing, Evals, And Benchmarks
 

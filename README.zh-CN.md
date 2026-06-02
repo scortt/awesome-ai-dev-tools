@@ -15,6 +15,7 @@
 - [智能体运行时与框架](#智能体运行时与框架)
 - [Model Context Protocol](#model-context-protocol)
 - [代码库搜索与索引](#代码库搜索与索引)
+- [开发者 CLI 与终端工具](#开发者-cli-与终端工具)
 - [代码审查与变更查看 UI](#代码审查与变更查看-ui)
 - [设计、原型与产物](#设计原型与产物)
 - [3D 与资产生成](#3d-与资产生成)
@@ -116,6 +117,16 @@
 - [Devv](https://github.com/devv-ai/devv) - 面向开发者的 AI 搜索引擎，用于查找实现细节、API 和工程参考。`License: see repository`
 - [CocoIndex](https://github.com/cocoindex-io/cocoindex) - 面向长周期智能体的增量索引引擎，让项目上下文保持新鲜且可查询。`Python` `Apache-2.0`
 
+## 开发者 CLI 与终端工具
+
+- [Doxx](https://github.com/bgreenwell/doxx) - 终端工具，可在不打开 Microsoft Office 的情况下安全检查 `.docx` 文档内容。`Rust` `MIT`
+- [Mole](https://github.com/tw93/Mole) - macOS 终端工具，用于清理、卸载、分析、优化和监控系统。`Shell` `MIT`
+- [tproxy](https://github.com/kevwan/tproxy) - 用于代理和分析 TCP 连接的 CLI 调试工具。`Go` `MIT`
+- [Piku](https://github.com/piku/piku) - 极简自托管 PaaS，可通过 `git push` 把应用部署到自己的服务器。`Python` `MIT`
+- [VizTracer](https://github.com/gaogaotiantian/viztracer) - Python 追踪和性能分析工具，可记录执行过程并渲染交互式 trace。`Python` `Apache-2.0`
+- [kitty](https://github.com/kovidgoyal/kitty) - 快速、可脚本化、基于 GPU 的终端模拟器，适合本地开发工作流。`Python` `GPL-3.0`
+- [OpenAI Proxy](https://github.com/egoist/openai-proxy) - Edge proxy，可通过 Cloudflare Workers 或 Vercel Edge 转发 OpenAI API 调用。`TypeScript` `License: see repository`
+
 ## 代码审查与变更查看 UI
 
 - [Pierre](https://github.com/pierrecomputer/pierre) - 开源 TypeScript monorepo，提供适合 AI 的代码审查基础组件，如 diff 渲染和文件树渲染。`TypeScript` `License: see repository`
@@ -153,6 +164,7 @@
 - [Maestro](https://github.com/mobile-dev-inc/Maestro) - 面向移动端和 Web 端到端流程的声明式自动化框架。`Kotlin` `Apache-2.0`
 - [OpenAI CUA Sample App](https://github.com/openai/openai-cua-sample-app) - 使用 computer-using agent 操作浏览器和桌面环境的示例应用。`TypeScript` `MIT`
 - [Self Operating Computer](https://github.com/OthersideAI/self-operating-computer) - 多模态框架，让 AI 通过视觉上下文和动作操作计算机。`Python` `MIT`
+- [KasmVNC](https://github.com/kasmtech/KasmVNC) - 可通过 Web 访问的 VNC server 和 client，用于安全远程桌面环境。`C++` `GPL-2.0`
 
 ## 测试、评测与基准
 
