@@ -75,6 +75,7 @@ Preferred entry format:
 - [Claude Engineer](https://github.com/Doriandarko/claude-engineer) - CLI and web coding assistant that lets Claude create and use project-specific tools during development sessions. `Python` `License: see repository`
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - Natural-language computer interface for running code, using the shell, and operating local workflows. `Python` `AGPL-3.0`
 - [AIlice](https://github.com/myshell-ai/AIlice) - General-purpose autonomous agent runtime with shell, browser, and tool-use workflows. `Python` `MIT`
+- [LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLM copilot for Lean theorem proving with tactic suggestion, premise selection, and proof search workflows. `C++` `MIT`
 
 ## Agent Operations And Maintenance
 
@@ -145,6 +146,9 @@ Preferred entry format:
 - [Awesome Design.md](https://github.com/VoltAgent/awesome-design-md) - Collection of brand design-system files that help coding agents produce matching UI. `MIT`
 - [Architecture Diagram Generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Claude skill for generating standalone HTML and SVG system architecture diagrams. `HTML` `MIT`
 - [Frontend Slides](https://github.com/zarazhangrui/frontend-slides) - Web slide framework designed for coding agents that generate frontend-based presentations. `JavaScript` `MIT`
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - AI-assisted draw.io application for creating and modifying diagrams through natural-language commands. `TypeScript` `Apache-2.0`
+- [D2](https://github.com/terrastruct/d2) - Text-to-diagram language for generating architecture and workflow diagrams from versionable source files. `Go` `MPL-2.0`
+- [Graphologue](https://github.com/foundation-interface/graphologue) - LLM-driven interface for streaming structured diagrams as visual artifacts instead of plain text. `TypeScript` `MIT`
 - [Onlook](https://github.com/onlook-dev/onlook) - AI-first visual editor for building, styling, and editing React applications. `TypeScript` `Apache-2.0`
 - [OpenUI](https://github.com/wandb/openui) - Live UI generation tool that renders interface descriptions into editable components. `TypeScript` `MIT`
 - [Screenshot to Code](https://github.com/abi/screenshot-to-code) - Converts screenshots into HTML, Tailwind, React, or Vue implementations. `TypeScript` `MIT`
@@ -211,6 +215,7 @@ Preferred entry format:
 - [Haystack](https://github.com/deepset-ai/haystack) - Framework for building search, RAG, and agentic knowledge applications. `Python` `Apache-2.0`
 - [DocsGPT](https://github.com/arc53/DocsGPT) - Open source assistant for querying documentation and internal knowledge. `Python` `MIT`
 - [RaTeX](https://github.com/erweixin/RaTeX) - Pure Rust KaTeX-compatible math renderer for native, web, server-side PNG/SVG/PDF, and AI document workflows. `Rust` `License: see repository`
+- [EdgeQuake](https://github.com/raphaelmansuy/edgequake) - Rust GraphRAG engine for turning documents into queryable knowledge graphs for retrieval workflows. `Rust` `Apache-2.0`
 - [Dataset Viewer](https://github.com/stardustai/dataset-viewer) - Tauri desktop viewer for streaming, searching, and previewing massive datasets from local files, S3, WebDAV, SSH, SMB, and Hugging Face. `TypeScript` `MIT`
 - [Docling](https://github.com/docling-project/docling) - Document parsing toolkit for preparing files for generative AI and RAG pipelines. `Python` `MIT`
 - [MarkItDown](https://github.com/microsoft/markitdown) - Converts Office files, PDFs, and other documents into Markdown for LLM workflows. `Python` `MIT`

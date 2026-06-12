@@ -74,6 +74,7 @@
 - [Claude Engineer](https://github.com/Doriandarko/claude-engineer) - CLI 与 Web 代码助手，让 Claude 在开发会话中创建和使用项目专用工具。`Python` `License: see repository`
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - 面向计算机的自然语言接口，可运行代码、使用 Shell 并操作本地工作流。`Python` `AGPL-3.0`
 - [AIlice](https://github.com/myshell-ai/AIlice) - 通用自主智能体运行时，支持 Shell、浏览器和工具调用工作流。`Python` `MIT`
+- [LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - 面向 Lean 定理证明的 LLM copilot，支持 tactic 建议、premise selection 和 proof search 工作流。`C++` `MIT`
 
 ## 智能体运维与维护
 
@@ -144,6 +145,9 @@
 - [Awesome Design.md](https://github.com/VoltAgent/awesome-design-md) - 品牌设计系统文件集合，帮助 coding agent 生成匹配品牌的 UI。`MIT`
 - [Architecture Diagram Generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Claude skill，用于生成独立 HTML 和 SVG 系统架构图。`HTML` `MIT`
 - [Frontend Slides](https://github.com/zarazhangrui/frontend-slides) - 面向 coding agent 的 Web 幻灯片框架，用前端方式生成演示文稿。`JavaScript` `MIT`
+- [next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - AI 辅助 draw.io 应用，可通过自然语言命令创建和修改图表。`TypeScript` `Apache-2.0`
+- [D2](https://github.com/terrastruct/d2) - 文本到图表语言，用可版本管理的源文件生成架构图和工作流图。`Go` `MPL-2.0`
+- [Graphologue](https://github.com/foundation-interface/graphologue) - LLM 驱动的界面，用于把结构化图表作为视觉产物流式生成，而不是只输出纯文本。`TypeScript` `MIT`
 - [Onlook](https://github.com/onlook-dev/onlook) - AI-first 可视化编辑器，用于构建、样式化和编辑 React 应用。`TypeScript` `Apache-2.0`
 - [OpenUI](https://github.com/wandb/openui) - 实时 UI 生成工具，可把界面描述渲染为可编辑组件。`TypeScript` `MIT`
 - [Screenshot to Code](https://github.com/abi/screenshot-to-code) - 把截图转换成 HTML、Tailwind、React 或 Vue 实现。`TypeScript` `MIT`
@@ -210,6 +214,7 @@
 - [Haystack](https://github.com/deepset-ai/haystack) - 用于构建搜索、RAG 和 agentic knowledge 应用的框架。`Python` `Apache-2.0`
 - [DocsGPT](https://github.com/arc53/DocsGPT) - 用于查询文档和内部知识的开源 assistant。`Python` `MIT`
 - [RaTeX](https://github.com/erweixin/RaTeX) - 纯 Rust KaTeX 兼容数学渲染器，支持原生、Web、服务端 PNG/SVG/PDF 和 AI 文档工作流。`Rust` `License: see repository`
+- [EdgeQuake](https://github.com/raphaelmansuy/edgequake) - Rust GraphRAG 引擎，可把文档转成可查询知识图谱，用于检索工作流。`Rust` `Apache-2.0`
 - [Dataset Viewer](https://github.com/stardustai/dataset-viewer) - Tauri 桌面查看器，可从本地文件、S3、WebDAV、SSH、SMB 和 Hugging Face 流式搜索和预览大规模数据集。`TypeScript` `MIT`
 - [Docling](https://github.com/docling-project/docling) - 文档解析工具包，用于把文件准备成适合生成式 AI 和 RAG pipeline 的数据。`Python` `MIT`
 - [MarkItDown](https://github.com/microsoft/markitdown) - 把 Office 文件、PDF 和其他文档转换成 Markdown，供 LLM 工作流使用。`Python` `MIT`
