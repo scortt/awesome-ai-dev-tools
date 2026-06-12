@@ -94,7 +94,6 @@
 - [LangGraph](https://github.com/langchain-ai/langgraph) - 用于构建有状态、可控智能体工作流的框架。`Python` `MIT`
 - [AutoGen](https://github.com/microsoft/autogen) - 用于构建多智能体 AI 应用和工作流的框架。`Python` `MIT`
 - [CrewAI](https://github.com/crewAIInc/crewAI) - 用于编排基于角色的 AI agent 和任务工作流的框架。`Python` `MIT`
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 也可作为实践型软件工程智能体的参考实现。`Python` `MIT`
 - [Dify](https://github.com/langgenius/dify) - 用于构建和运营 agentic LLM 工作流的平台，支持工具、数据集和应用部署。`TypeScript` `License: see repository`
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 多智能体框架，用软件公司角色来组织自然语言编程工作流。`Python` `MIT`
 - [Eko](https://github.com/FellouAI/eko) - Agentic workflow 框架，把自然语言任务转为偏生产化的自动化流程。`TypeScript` `MIT`

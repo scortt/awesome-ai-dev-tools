@@ -95,7 +95,6 @@ Preferred entry format:
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Framework for building stateful, controllable agent workflows. `Python` `MIT`
 - [AutoGen](https://github.com/microsoft/autogen) - Framework for building multi-agent AI applications and workflows. `Python` `MIT`
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-based AI agents and task workflows. `Python` `MIT`
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Also useful as a reference implementation for practical software-engineering agents. `Python` `MIT`
 - [Dify](https://github.com/langgenius/dify) - Platform for building and operating agentic LLM workflows with tools, datasets, and application deployment. `TypeScript` `License: see repository`
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-agent framework that models software-company roles for natural-language programming workflows. `Python` `MIT`
 - [Eko](https://github.com/FellouAI/eko) - Agentic workflow framework for turning natural-language tasks into production-oriented automation. `TypeScript` `MIT`
