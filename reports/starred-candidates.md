@@ -1,9 +1,9 @@
 # Starred Repository Candidates
 
 - GitHub user: `scortt`
-- Generated: `2026-06-12 05:55 UTC`
-- Candidate count: `80`
-- Already listed and skipped: `90`
+- Generated: `2026-06-15 09:02 UTC`
+- Candidate count: `75`
+- Already listed and skipped: `95`
 - Archived or disabled skipped: `7`
 
 Review these manually before adding them to `README.md` and `README.zh-CN.md`.
@@ -12,11 +12,10 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 ## Coding Agents And AI IDEs
 
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill `Language: see repository` `MIT` _(starred: 2026-06-02T12:24:39Z; matched: codex)_
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard. `Python` `MIT` _(starred: 2026-02-28T03:11:11Z; matched: claude code, codex)_
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. `Python` `MIT` _(starred: 2026-02-28T03:11:11Z; matched: claude code, codex)_
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research `TypeScript` `License: see repository` _(starred: 2025-10-17T04:39:18Z; matched: autonomous agent)_
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian `TypeScript` `AGPL-3.0` _(starred: 2024-03-17T18:33:42Z; matched: copilot)_
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。 `Kotlin` `License: see repository` _(starred: 2024-01-02T16:33:49Z; matched: copilot)_
-- [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean `C++` `MIT` _(starred: 2023-12-11T12:08:46Z; matched: copilot)_
 - [mengjian-github/copilot-analysis](https://github.com/mengjian-github/copilot-analysis) - 本文详细分析了 Github Copilot 这个基于机器学习的代码自动补全工具的实现原理。作者通过逆向工程的方式,深入探索了 Copilot 的核心逻辑,包括代码提示的入口、获取提示的核心方法、以及相关的缓存策略、实验特性等。 `JavaScript` `License: see repository` _(starred: 2023-06-29T04:19:24Z; matched: copilot)_
 - [personoids/personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. `JavaScript` `MIT` _(starred: 2023-05-28T16:21:43Z; matched: autonomous agent)_
 
@@ -44,14 +43,11 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 
 ## Design, Prototyping, And Artifacts
 
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. `TypeScript` `Apache-2.0` _(starred: 2026-06-04T10:30:38Z; matched: diagram)_
 - [gongxings/kemeng-ai-anime-creation](https://github.com/gongxings/kemeng-ai-anime-creation) - Kmeng AI Animata is an open-source AI video creation tool designed to transform your local computer into a professional digital studio. `TypeScript` `MIT` _(starred: 2026-04-04T06:08:55Z; matched: design)_
 - [joeseesun/qiaomu-mondo-poster-design](https://github.com/joeseesun/qiaomu-mondo-poster-design) - 一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词："Mondo风格"、"书籍封 `Python` `MIT` _(starred: 2026-03-08T18:07:27Z; matched: design)_
 - [cubewhy/skid-homework](https://github.com/cubewhy/skid-homework) - Ergonomically designed, AI-powered homework solver. | 符合人体工程学设计、人工智能驱动的作业助手 | 平庸者的苦工到此为止，这是来自外星的效率补丁 (by Gemini) `TypeScript` `GPL-3.0` _(starred: 2025-11-10T09:37:44Z; matched: design)_
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. `Go` `MPL-2.0` _(starred: 2025-02-02T07:40:03Z; matched: diagram)_
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. `TypeScript` `MIT` _(starred: 2024-11-08T16:10:52Z; matched: design)_
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text. `TypeScript` `MIT` _(starred: 2024-09-25T16:34:31Z; matched: diagram)_
-- [foundation-interface/graphologue](https://github.com/foundation-interface/graphologue) - Use LLM to stream diagrams, instead of tokens, in real-time! (UIST 2023 Paper) `TypeScript` `MIT` _(starred: 2024-09-16T14:54:35Z; matched: diagram)_
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. `Language: see repository` `License: see repository` _(starred: 2024-09-02T09:25:46Z; matched: design)_
 - [Ramotion/expanding-collection](https://github.com/Ramotion/expanding-collection) - :octocat: ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion `Swift` `MIT` _(starred: 2024-08-15T06:32:11Z; matched: design)_
 - [Ramotion/cardslider](https://github.com/Ramotion/cardslider) - :octocat: 🃏 Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions. `Swift` `MIT` _(starred: 2024-08-15T06:30:44Z; matched: design)_
@@ -109,7 +105,6 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 - [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. `Jupyter Notebook` `License: see repository` _(starred: 2026-06-02T12:05:45Z; matched: dataset)_
 - [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL. `Python` `Apache-2.0` _(starred: 2026-04-01T09:24:32Z; matched: semantic search)_
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. `Markdown` `License: see repository` _(starred: 2026-03-13T12:15:58Z; matched: markdown)_
-- [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation `Rust` `Apache-2.0` _(starred: 2026-03-01T18:22:15Z; matched: rag, document, knowledge)_
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 `Roff` `License: see repository` _(starred: 2025-03-16T09:38:34Z; matched: pdf)_
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents `Python` `GPL-3.0` _(starred: 2024-10-31T04:50:10Z; matched: document)_
 - [shallowdream204/DreamClear](https://github.com/shallowdream204/DreamClear) - [NeurIPS 2024] DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation `Python` `Apache-2.0` _(starred: 2024-10-30T07:08:37Z; matched: dataset)_

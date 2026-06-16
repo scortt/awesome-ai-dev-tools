@@ -1,5 +1,5 @@
 {
-  "candidate_count": 80,
+  "candidate_count": 75,
   "candidates": [
     {
       "category": "Docs, Knowledge, And RAG",
@@ -13,7 +13,7 @@
         "markdown",
         "pdf"
       ],
-      "pushed_at": "2026-06-12T03:24:53Z",
+      "pushed_at": "2026-06-15T08:13:56Z",
       "starred_at": "2026-06-11T18:10:16Z",
       "topics": [
         "cmark-gfm",
@@ -30,27 +30,7 @@
         "theme-system",
         "wkwebview"
       ],
-      "updated_at": "2026-06-12T05:06:00Z"
-    },
-    {
-      "category": "Design, Prototyping, And Artifacts",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "full_name": "DayuanJiang/next-ai-draw-io",
-      "homepage": "https://next-ai-drawio.jiang.jp/",
-      "html_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "language": "TypeScript",
-      "license": "Apache-2.0",
-      "matched_keywords": [
-        "diagram"
-      ],
-      "pushed_at": "2026-06-12T02:44:40Z",
-      "starred_at": "2026-06-04T10:30:38Z",
-      "topics": [
-        "ai",
-        "diagrams",
-        "productivity"
-      ],
-      "updated_at": "2026-06-12T05:51:59Z"
+      "updated_at": "2026-06-15T08:14:00Z"
     },
     {
       "category": "Coding Agents And AI IDEs",
@@ -74,7 +54,7 @@
         "image-generation",
         "xiaohei"
       ],
-      "updated_at": "2026-06-12T05:54:45Z"
+      "updated_at": "2026-06-15T08:55:40Z"
     },
     {
       "category": "Audio And Multimodal Workflows",
@@ -107,7 +87,7 @@
         "voice-design",
         "voxcpm"
       ],
-      "updated_at": "2026-06-12T05:53:56Z"
+      "updated_at": "2026-06-15T09:01:50Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -120,10 +100,10 @@
       "matched_keywords": [
         "dataset"
       ],
-      "pushed_at": "2026-06-11T18:18:53Z",
+      "pushed_at": "2026-06-15T02:51:15Z",
       "starred_at": "2026-06-02T12:05:45Z",
       "topics": [],
-      "updated_at": "2026-06-12T05:49:15Z"
+      "updated_at": "2026-06-15T08:22:07Z"
     },
     {
       "category": "3D And Asset Generation",
@@ -139,7 +119,7 @@
       "pushed_at": "2026-02-18T04:25:41Z",
       "starred_at": "2026-05-26T07:03:45Z",
       "topics": [],
-      "updated_at": "2026-06-12T00:55:02Z"
+      "updated_at": "2026-06-14T14:41:44Z"
     },
     {
       "category": "Sandboxes And Secure Execution",
@@ -152,7 +132,7 @@
       "matched_keywords": [
         "environment"
       ],
-      "pushed_at": "2026-06-11T06:02:14Z",
+      "pushed_at": "2026-06-13T06:53:44Z",
       "starred_at": "2026-04-27T18:09:28Z",
       "topics": [
         "ai-agents",
@@ -173,7 +153,7 @@
         "stock-market",
         "trading"
       ],
-      "updated_at": "2026-06-12T05:42:35Z"
+      "updated_at": "2026-06-15T08:58:29Z"
     },
     {
       "category": "Browser And UI Automation",
@@ -221,7 +201,7 @@
       "pushed_at": "2026-06-05T09:57:25Z",
       "starred_at": "2026-04-03T10:51:29Z",
       "topics": [],
-      "updated_at": "2026-06-12T05:37:48Z"
+      "updated_at": "2026-06-15T08:55:06Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -249,7 +229,7 @@
         "tesla",
         "video"
       ],
-      "updated_at": "2026-06-12T04:28:28Z"
+      "updated_at": "2026-06-15T03:21:58Z"
     },
     {
       "category": "3D And Asset Generation",
@@ -281,7 +261,7 @@
       "pushed_at": "2026-05-06T09:24:05Z",
       "starred_at": "2026-03-19T11:29:09Z",
       "topics": [],
-      "updated_at": "2026-06-11T18:02:05Z"
+      "updated_at": "2026-06-15T04:40:52Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -317,7 +297,7 @@
         "wireguard",
         "xray"
       ],
-      "updated_at": "2026-06-12T05:47:38Z"
+      "updated_at": "2026-06-15T09:00:29Z"
     },
     {
       "category": "Agent Runtimes And Frameworks",
@@ -330,7 +310,7 @@
       "matched_keywords": [
         "multi-agent"
       ],
-      "pushed_at": "2026-06-01T02:02:48Z",
+      "pushed_at": "2026-06-14T18:49:03Z",
       "starred_at": "2026-03-15T18:09:35Z",
       "topics": [
         "agent",
@@ -339,7 +319,7 @@
         "multiagent",
         "trading"
       ],
-      "updated_at": "2026-06-12T05:53:38Z"
+      "updated_at": "2026-06-15T09:01:55Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -362,7 +342,7 @@
         "tutorial-exercises",
         "tutorials"
       ],
-      "updated_at": "2026-06-12T05:43:40Z"
+      "updated_at": "2026-06-15T08:57:37Z"
     },
     {
       "category": "Design, Prototyping, And Artifacts",
@@ -378,7 +358,7 @@
       "pushed_at": "2026-03-19T02:12:14Z",
       "starred_at": "2026-03-08T18:07:27Z",
       "topics": [],
-      "updated_at": "2026-06-12T02:57:14Z"
+      "updated_at": "2026-06-15T08:16:44Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -412,7 +392,7 @@
       "topics": [
         "text2music"
       ],
-      "updated_at": "2026-06-12T05:50:29Z"
+      "updated_at": "2026-06-15T05:56:41Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -442,7 +422,7 @@
         "video-processing",
         "videos"
       ],
-      "updated_at": "2026-06-12T02:15:21Z"
+      "updated_at": "2026-06-15T05:26:54Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -456,7 +436,7 @@
         "cli",
         "terminal"
       ],
-      "pushed_at": "2026-06-04T18:13:13Z",
+      "pushed_at": "2026-06-14T17:23:32Z",
       "starred_at": "2026-03-02T17:30:49Z",
       "topics": [
         "cliamp",
@@ -479,7 +459,7 @@
         "youtube",
         "yt-dlp"
       ],
-      "updated_at": "2026-06-12T05:07:48Z"
+      "updated_at": "2026-06-15T05:59:51Z"
     },
     {
       "category": "Audio And Multimodal Workflows",
@@ -492,7 +472,7 @@
       "matched_keywords": [
         "voice"
       ],
-      "pushed_at": "2026-06-12T01:55:29Z",
+      "pushed_at": "2026-06-15T01:57:56Z",
       "starred_at": "2026-03-02T06:09:45Z",
       "topics": [
         "ai-companion",
@@ -507,30 +487,7 @@
         "vrm",
         "vtuber"
       ],
-      "updated_at": "2026-06-12T05:49:24Z"
-    },
-    {
-      "category": "Docs, Knowledge, And RAG",
-      "description": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
-      "full_name": "raphaelmansuy/edgequake",
-      "homepage": "https://edgequake.com",
-      "html_url": "https://github.com/raphaelmansuy/edgequake",
-      "language": "Rust",
-      "license": "Apache-2.0",
-      "matched_keywords": [
-        "rag",
-        "document",
-        "knowledge"
-      ],
-      "pushed_at": "2026-06-09T05:06:11Z",
-      "starred_at": "2026-03-01T18:22:15Z",
-      "topics": [
-        "graphrag",
-        "knowledge-graph",
-        "lightrag",
-        "rag"
-      ],
-      "updated_at": "2026-06-12T04:10:09Z"
+      "updated_at": "2026-06-15T08:28:51Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -546,7 +503,7 @@
       "pushed_at": "2026-05-28T10:55:05Z",
       "starred_at": "2026-03-01T16:10:46Z",
       "topics": [],
-      "updated_at": "2026-06-11T22:45:23Z"
+      "updated_at": "2026-06-15T07:44:35Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -559,7 +516,7 @@
       "matched_keywords": [
         "prompt"
       ],
-      "pushed_at": "2026-06-12T04:08:17Z",
+      "pushed_at": "2026-06-15T04:25:17Z",
       "starred_at": "2026-02-28T12:45:52Z",
       "topics": [
         "ai",
@@ -573,11 +530,11 @@
         "seedance2",
         "video"
       ],
-      "updated_at": "2026-06-12T04:08:21Z"
+      "updated_at": "2026-06-15T07:32:21Z"
     },
     {
       "category": "Coding Agents And AI IDEs",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "full_name": "K-Dense-AI/scientific-agent-skills",
       "homepage": "https://k-dense.ai",
       "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
@@ -587,7 +544,7 @@
         "claude code",
         "codex"
       ],
-      "pushed_at": "2026-06-11T22:28:44Z",
+      "pushed_at": "2026-06-13T14:30:30Z",
       "starred_at": "2026-02-28T03:11:11Z",
       "topics": [
         "agent-skills",
@@ -608,7 +565,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "updated_at": "2026-06-12T05:42:20Z"
+      "updated_at": "2026-06-15T08:59:50Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -621,7 +578,7 @@
       "matched_keywords": [
         "prompt"
       ],
-      "pushed_at": "2026-06-12T04:17:17Z",
+      "pushed_at": "2026-06-15T04:35:26Z",
       "starred_at": "2026-02-27T05:59:59Z",
       "topics": [
         "ai-video",
@@ -635,7 +592,7 @@
         "video-generation",
         "video-prompt"
       ],
-      "updated_at": "2026-06-12T05:21:57Z"
+      "updated_at": "2026-06-15T08:28:45Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -648,7 +605,7 @@
       "matched_keywords": [
         "prompt"
       ],
-      "pushed_at": "2026-06-12T05:31:30Z",
+      "pushed_at": "2026-06-15T05:43:45Z",
       "starred_at": "2026-02-27T05:59:35Z",
       "topics": [
         "ai-image-generation",
@@ -668,7 +625,7 @@
         "prompt-engineering",
         "prompts"
       ],
-      "updated_at": "2026-06-12T05:54:31Z"
+      "updated_at": "2026-06-15T09:01:30Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -684,7 +641,7 @@
       "pushed_at": "2026-05-26T15:37:56Z",
       "starred_at": "2026-02-25T07:41:22Z",
       "topics": [],
-      "updated_at": "2026-06-11T19:52:42Z"
+      "updated_at": "2026-06-15T08:20:33Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -698,7 +655,7 @@
         "cli",
         "terminal"
       ],
-      "pushed_at": "2026-06-12T02:52:25Z",
+      "pushed_at": "2026-06-15T05:38:43Z",
       "starred_at": "2026-02-17T07:24:11Z",
       "topics": [
         "ai-native",
@@ -708,7 +665,7 @@
         "ratatui",
         "tui"
       ],
-      "updated_at": "2026-06-11T18:27:53Z"
+      "updated_at": "2026-06-15T06:31:24Z"
     },
     {
       "category": "Design, Prototyping, And Artifacts",
@@ -733,7 +690,7 @@
         "self-taught",
         "study"
       ],
-      "updated_at": "2026-06-11T16:20:19Z"
+      "updated_at": "2026-06-13T15:25:45Z"
     },
     {
       "category": "Coding Agents And AI IDEs",
@@ -749,7 +706,7 @@
       "pushed_at": "2026-06-10T00:49:14Z",
       "starred_at": "2025-10-17T04:39:18Z",
       "topics": [],
-      "updated_at": "2026-06-12T04:38:52Z"
+      "updated_at": "2026-06-15T06:13:46Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -762,7 +719,7 @@
       "matched_keywords": [
         "cli"
       ],
-      "pushed_at": "2026-06-06T17:11:22Z",
+      "pushed_at": "2026-06-14T19:59:45Z",
       "starred_at": "2025-10-01T07:07:51Z",
       "topics": [
         "agora",
@@ -776,7 +733,7 @@
         "virtual-classroom",
         "whiteboard"
       ],
-      "updated_at": "2026-06-09T05:03:42Z"
+      "updated_at": "2026-06-14T13:13:53Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -789,7 +746,7 @@
       "matched_keywords": [
         "memory"
       ],
-      "pushed_at": "2026-06-11T20:55:49Z",
+      "pushed_at": "2026-06-14T19:53:33Z",
       "starred_at": "2025-08-22T04:49:35Z",
       "topics": [
         "lisp",
@@ -797,7 +754,7 @@
         "pc-g850",
         "tiny"
       ],
-      "updated_at": "2026-06-11T20:56:00Z"
+      "updated_at": "2026-06-15T02:51:58Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -813,31 +770,7 @@
       "pushed_at": "2025-10-18T13:39:24Z",
       "starred_at": "2025-03-16T09:38:34Z",
       "topics": [],
-      "updated_at": "2026-06-12T05:52:09Z"
-    },
-    {
-      "category": "Design, Prototyping, And Artifacts",
-      "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
-      "full_name": "terrastruct/d2",
-      "homepage": "https://d2lang.com",
-      "html_url": "https://github.com/terrastruct/d2",
-      "language": "Go",
-      "license": "MPL-2.0",
-      "matched_keywords": [
-        "diagram"
-      ],
-      "pushed_at": "2026-04-24T22:40:22Z",
-      "starred_at": "2025-02-02T07:40:03Z",
-      "topics": [
-        "developer-tools",
-        "diagramming",
-        "diagrams",
-        "go",
-        "golang",
-        "software-architecture",
-        "text-to-diagram"
-      ],
-      "updated_at": "2026-06-12T04:39:19Z"
+      "updated_at": "2026-06-15T08:34:44Z"
     },
     {
       "category": "Audio And Multimodal Workflows",
@@ -871,7 +804,7 @@
       "matched_keywords": [
         "cli"
       ],
-      "pushed_at": "2026-06-10T10:47:08Z",
+      "pushed_at": "2026-06-15T08:55:42Z",
       "starred_at": "2024-11-08T16:11:38Z",
       "topics": [
         "boards",
@@ -895,7 +828,7 @@
         "vite",
         "work-management"
       ],
-      "updated_at": "2026-06-12T05:50:50Z"
+      "updated_at": "2026-06-15T08:54:06Z"
     },
     {
       "category": "Design, Prototyping, And Artifacts",
@@ -908,7 +841,7 @@
       "matched_keywords": [
         "design"
       ],
-      "pushed_at": "2026-06-11T16:46:22Z",
+      "pushed_at": "2026-06-15T08:16:12Z",
       "starred_at": "2024-11-08T16:10:52Z",
       "topics": [
         "base-ui",
@@ -923,7 +856,7 @@
         "ui",
         "vite"
       ],
-      "updated_at": "2026-06-12T05:53:45Z"
+      "updated_at": "2026-06-15T08:54:03Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -936,7 +869,7 @@
       "matched_keywords": [
         "document"
       ],
-      "pushed_at": "2026-06-12T04:03:26Z",
+      "pushed_at": "2026-06-15T01:25:42Z",
       "starred_at": "2024-10-31T04:50:10Z",
       "topics": [
         "angular",
@@ -951,7 +884,7 @@
         "optical-character-recognition",
         "pdf"
       ],
-      "updated_at": "2026-06-12T04:38:32Z"
+      "updated_at": "2026-06-15T08:54:21Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -985,7 +918,7 @@
       "matched_keywords": [
         "document"
       ],
-      "pushed_at": "2026-06-11T13:08:34Z",
+      "pushed_at": "2026-06-15T08:59:26Z",
       "starred_at": "2024-10-30T05:46:42Z",
       "topics": [
         "astro",
@@ -994,7 +927,7 @@
         "starlight",
         "static-site-generator"
       ],
-      "updated_at": "2026-06-11T18:49:47Z"
+      "updated_at": "2026-06-15T08:59:00Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -1034,7 +967,7 @@
       "pushed_at": "2026-05-28T21:02:59Z",
       "starred_at": "2024-10-20T05:48:21Z",
       "topics": [],
-      "updated_at": "2026-06-12T05:29:41Z"
+      "updated_at": "2026-06-15T05:53:34Z"
     },
     {
       "category": "Developer CLI And Terminal Tools",
@@ -1047,7 +980,7 @@
       "matched_keywords": [
         "cli"
       ],
-      "pushed_at": "2026-03-24T21:12:50Z",
+      "pushed_at": "2026-06-13T04:49:40Z",
       "starred_at": "2024-10-05T07:50:11Z",
       "topics": [
         "ai-translation",
@@ -1056,7 +989,7 @@
         "video-translation",
         "voice-cloning"
       ],
-      "updated_at": "2026-06-12T05:07:30Z"
+      "updated_at": "2026-06-15T08:45:28Z"
     },
     {
       "category": "Browser And UI Automation",
@@ -1077,7 +1010,7 @@
         "super-resolution",
         "webgpu"
       ],
-      "updated_at": "2026-06-11T00:10:42Z"
+      "updated_at": "2026-06-15T07:39:55Z"
     },
     {
       "category": "Design, Prototyping, And Artifacts",
@@ -1099,27 +1032,7 @@
         "programming-language",
         "visualization"
       ],
-      "updated_at": "2026-06-11T18:24:11Z"
-    },
-    {
-      "category": "Design, Prototyping, And Artifacts",
-      "description": "Use LLM to stream diagrams, instead of tokens, in real-time! (UIST 2023 Paper)",
-      "full_name": "foundation-interface/graphologue",
-      "homepage": "https://graphologue.app",
-      "html_url": "https://github.com/foundation-interface/graphologue",
-      "language": "TypeScript",
-      "license": "MIT",
-      "matched_keywords": [
-        "diagram"
-      ],
-      "pushed_at": "2026-03-06T22:00:47Z",
-      "starred_at": "2024-09-16T14:54:35Z",
-      "topics": [
-        "diagram",
-        "hci",
-        "llm"
-      ],
-      "updated_at": "2026-05-30T02:30:25Z"
+      "updated_at": "2026-06-15T06:34:40Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -1132,7 +1045,7 @@
       "matched_keywords": [
         "ocr"
       ],
-      "pushed_at": "2026-05-05T07:32:09Z",
+      "pushed_at": "2026-06-13T11:02:45Z",
       "starred_at": "2024-09-05T17:47:40Z",
       "topics": [
         "awesome",
@@ -1149,7 +1062,7 @@
         "swift-language",
         "swift-library"
       ],
-      "updated_at": "2026-06-12T02:20:32Z"
+      "updated_at": "2026-06-14T10:46:03Z"
     },
     {
       "category": "Design, Prototyping, And Artifacts",
@@ -1176,7 +1089,7 @@
         "system-design",
         "system-design-interview"
       ],
-      "updated_at": "2026-06-12T05:55:13Z"
+      "updated_at": "2026-06-15T08:57:11Z"
     },
     {
       "category": "Design, Prototyping, And Artifacts",
@@ -1234,7 +1147,7 @@
       "pushed_at": "2025-04-17T07:20:29Z",
       "starred_at": "2024-06-30T06:11:09Z",
       "topics": [],
-      "updated_at": "2026-06-11T14:33:38Z"
+      "updated_at": "2026-06-14T15:39:48Z"
     },
     {
       "category": "Audio And Multimodal Workflows",
@@ -1266,7 +1179,7 @@
       "pushed_at": "2026-01-29T06:23:55Z",
       "starred_at": "2024-06-20T12:49:32Z",
       "topics": [],
-      "updated_at": "2026-06-11T11:52:17Z"
+      "updated_at": "2026-06-13T22:13:03Z"
     },
     {
       "category": "Design, Prototyping, And Artifacts",
@@ -1290,7 +1203,7 @@
         "tailwindcss",
         "typescript"
       ],
-      "updated_at": "2026-06-12T04:01:44Z"
+      "updated_at": "2026-06-15T08:59:25Z"
     },
     {
       "category": "Testing, Evals, And Benchmarks",
@@ -1321,7 +1234,7 @@
         "trading",
         "trading-strategies"
       ],
-      "updated_at": "2026-06-12T05:37:46Z"
+      "updated_at": "2026-06-15T07:09:11Z"
     },
     {
       "category": "Coding Agents And AI IDEs",
@@ -1334,7 +1247,7 @@
       "matched_keywords": [
         "copilot"
       ],
-      "pushed_at": "2026-06-11T22:35:13Z",
+      "pushed_at": "2026-06-15T08:11:05Z",
       "starred_at": "2024-03-17T18:33:42Z",
       "topics": [
         "ai",
@@ -1343,7 +1256,7 @@
         "copilot",
         "obsidian-plugin"
       ],
-      "updated_at": "2026-06-12T03:40:23Z"
+      "updated_at": "2026-06-15T05:25:19Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -1356,7 +1269,7 @@
       "matched_keywords": [
         "prompt"
       ],
-      "pushed_at": "2026-06-12T00:53:48Z",
+      "pushed_at": "2026-06-14T20:01:59Z",
       "starred_at": "2024-03-12T06:29:00Z",
       "topics": [
         "awesome",
@@ -1369,7 +1282,7 @@
         "prompt",
         "prompt-engineering"
       ],
-      "updated_at": "2026-06-12T05:21:14Z"
+      "updated_at": "2026-06-15T05:05:46Z"
     },
     {
       "category": "Browser And UI Automation",
@@ -1402,7 +1315,7 @@
         "switch",
         "usb"
       ],
-      "updated_at": "2026-06-10T17:27:20Z"
+      "updated_at": "2026-06-14T08:28:57Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -1422,7 +1335,7 @@
         "prompt",
         "prompt-engineering"
       ],
-      "updated_at": "2026-06-11T11:28:08Z"
+      "updated_at": "2026-06-15T08:06:43Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -1435,7 +1348,7 @@
       "matched_keywords": [
         "document"
       ],
-      "pushed_at": "2026-06-11T17:54:16Z",
+      "pushed_at": "2026-06-13T18:15:16Z",
       "starred_at": "2024-01-22T03:25:41Z",
       "topics": [
         "authoring",
@@ -1443,7 +1356,7 @@
         "stem",
         "textbook"
       ],
-      "updated_at": "2026-06-11T17:54:21Z"
+      "updated_at": "2026-06-15T03:15:49Z"
     },
     {
       "category": "Coding Agents And AI IDEs",
@@ -1475,10 +1388,10 @@
       "matched_keywords": [
         "voice"
       ],
-      "pushed_at": "2026-06-10T14:32:59Z",
+      "pushed_at": "2026-06-15T06:43:22Z",
       "starred_at": "2023-12-30T05:26:21Z",
       "topics": [],
-      "updated_at": "2026-06-12T04:13:45Z"
+      "updated_at": "2026-06-15T06:43:25Z"
     },
     {
       "category": "Audio And Multimodal Workflows",
@@ -1494,31 +1407,7 @@
       "pushed_at": "2023-12-21T19:48:09Z",
       "starred_at": "2023-12-13T07:58:27Z",
       "topics": [],
-      "updated_at": "2026-05-22T08:26:37Z"
-    },
-    {
-      "category": "Coding Agents And AI IDEs",
-      "description": "LLMs as Copilots for Theorem Proving in Lean",
-      "full_name": "lean-dojo/LeanCopilot",
-      "homepage": "https://leandojo.org/leancopilot.html",
-      "html_url": "https://github.com/lean-dojo/LeanCopilot",
-      "language": "C++",
-      "license": "MIT",
-      "matched_keywords": [
-        "copilot"
-      ],
-      "pushed_at": "2026-06-02T01:40:07Z",
-      "starred_at": "2023-12-11T12:08:46Z",
-      "topics": [
-        "formal-mathematics",
-        "lean",
-        "lean4",
-        "llm",
-        "llm-inference",
-        "machine-learning",
-        "theorem-proving"
-      ],
-      "updated_at": "2026-06-11T01:59:03Z"
+      "updated_at": "2026-06-12T11:29:30Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -1552,7 +1441,7 @@
         "vision-transformer",
         "vit"
       ],
-      "updated_at": "2026-06-11T13:37:56Z"
+      "updated_at": "2026-06-15T08:16:44Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -1568,7 +1457,7 @@
       "pushed_at": "2024-09-27T03:31:47Z",
       "starred_at": "2023-12-06T03:11:29Z",
       "topics": [],
-      "updated_at": "2026-06-12T05:30:45Z"
+      "updated_at": "2026-06-14T17:37:15Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -1584,7 +1473,7 @@
       "pushed_at": "2025-02-21T16:38:00Z",
       "starred_at": "2023-10-17T14:16:37Z",
       "topics": [],
-      "updated_at": "2026-06-12T00:23:51Z"
+      "updated_at": "2026-06-15T07:15:46Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -1597,7 +1486,7 @@
       "matched_keywords": [
         "prompt"
       ],
-      "pushed_at": "2026-06-12T04:35:13Z",
+      "pushed_at": "2026-06-15T04:37:28Z",
       "starred_at": "2023-10-17T14:04:41Z",
       "topics": [
         "ai",
@@ -1619,7 +1508,7 @@
         "prompts-chat",
         "typescript"
       ],
-      "updated_at": "2026-06-12T05:34:49Z"
+      "updated_at": "2026-06-15T08:56:04Z"
     },
     {
       "category": "Prompt, Context, And Memory",
@@ -1656,7 +1545,7 @@
         "pdf-document-processor",
         "pdf-viewer"
       ],
-      "updated_at": "2026-06-11T20:23:54Z"
+      "updated_at": "2026-06-14T19:38:39Z"
     },
     {
       "category": "Docs, Knowledge, And RAG",
@@ -1677,7 +1566,7 @@
         "generative-models",
         "image-manipulation"
       ],
-      "updated_at": "2026-06-12T01:50:00Z"
+      "updated_at": "2026-06-15T05:48:20Z"
     },
     {
       "category": "Coding Agents And AI IDEs",
@@ -1693,7 +1582,7 @@
       "pushed_at": "2023-06-30T22:42:40Z",
       "starred_at": "2023-06-29T04:19:24Z",
       "topics": [],
-      "updated_at": "2026-06-09T13:06:03Z"
+      "updated_at": "2026-06-14T05:41:53Z"
     },
     {
       "category": "Design, Prototyping, And Artifacts",
@@ -1709,7 +1598,7 @@
       "pushed_at": "2024-05-09T00:58:26Z",
       "starred_at": "2023-06-18T05:12:36Z",
       "topics": [],
-      "updated_at": "2026-06-11T17:25:47Z"
+      "updated_at": "2026-06-14T17:21:20Z"
     },
     {
       "category": "3D And Asset Generation",
@@ -1722,7 +1611,7 @@
       "matched_keywords": [
         "3d"
       ],
-      "pushed_at": "2026-06-11T20:29:16Z",
+      "pushed_at": "2026-06-12T18:46:54Z",
       "starred_at": "2023-05-29T18:32:04Z",
       "topics": [
         "game-development",
@@ -1733,7 +1622,7 @@
         "multi-platform",
         "open-source"
       ],
-      "updated_at": "2026-06-12T05:54:19Z"
+      "updated_at": "2026-06-15T08:56:55Z"
     },
     {
       "category": "3D And Asset Generation",
@@ -1755,7 +1644,7 @@
         "haxe",
         "rendering"
       ],
-      "updated_at": "2026-06-11T08:09:55Z"
+      "updated_at": "2026-06-14T05:59:19Z"
     },
     {
       "category": "3D And Asset Generation",
@@ -1817,11 +1706,11 @@
         "gpt-4",
         "llm"
       ],
-      "updated_at": "2026-06-12T04:34:43Z"
+      "updated_at": "2026-06-14T22:34:48Z"
     }
   ],
-  "generated_at": "2026-06-12T05:55:59+00:00",
+  "generated_at": "2026-06-15T09:02:16+00:00",
   "github_user": "scortt",
   "skipped_archived": 7,
-  "skipped_known": 90
+  "skipped_known": 95
 }
