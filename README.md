@@ -122,6 +122,7 @@ Preferred entry format:
 
 ## Developer CLI And Terminal Tools
 
+- [Unix-Style Tools For AI Agents](UNIX_AGENT_TOOLS.md) - Focused list of cdb, jq, make, LSP servers, nq, moreutils, envdir, socat, Plan 9 tools, and other Unix-style glue for agent workflows.
 - [Doxx](https://github.com/bgreenwell/doxx) - Terminal tool for safely inspecting `.docx` document contents without Microsoft Office. `Rust` `MIT`
 - [Mole](https://github.com/tw93/Mole) - Terminal utility for cleaning, uninstalling, analyzing, optimizing, and monitoring macOS. `Shell` `MIT`
 - [tproxy](https://github.com/kevwan/tproxy) - CLI tool for proxying and analyzing TCP connections during debugging. `Go` `MIT`
@@ -146,7 +147,7 @@ Preferred entry format:
 - [Architecture Diagram Generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Claude skill for generating standalone HTML and SVG system architecture diagrams. `HTML` `MIT`
 - [Frontend Slides](https://github.com/zarazhangrui/frontend-slides) - Web slide framework designed for coding agents that generate frontend-based presentations. `JavaScript` `MIT`
 - [Onlook](https://github.com/onlook-dev/onlook) - AI-first visual editor for building, styling, and editing React applications. `TypeScript` `Apache-2.0`
-- [OpenUI](https://github.com/wandb/openui) - Live UI generation tool that renders interface descriptions into editable components. `TypeScript` `Apache-2.0`
+- [OpenUI](https://github.com/wandb/openui) - Live UI generation tool that renders interface descriptions into editable components. `TypeScript` `MIT`
 - [Screenshot to Code](https://github.com/abi/screenshot-to-code) - Converts screenshots into HTML, Tailwind, React, or Vue implementations. `TypeScript` `MIT`
 - [Assistant UI](https://github.com/assistant-ui/assistant-ui) - React component library for building AI chat and assistant interfaces. `TypeScript` `MIT`
 - [Creative Tim UI](https://github.com/creativetimofficial/ui) - Open source components, blocks, and agents exposed through registry and MCP workflows. `TypeScript` `MIT`
