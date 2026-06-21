@@ -121,6 +121,7 @@
 
 ## 开发者 CLI 与终端工具
 
+- [AI Agent 的 Unix 风格工具链](UNIX_AGENT_TOOLS.zh-CN.md) - 集中整理 cdb、jq、make、LSP server、nq、moreutils、envdir、socat、Plan 9 工具等适合 agent 工作流的 Unix 胶水工具。
 - [Doxx](https://github.com/bgreenwell/doxx) - 终端工具，可在不打开 Microsoft Office 的情况下安全检查 `.docx` 文档内容。`Rust` `MIT`
 - [Mole](https://github.com/tw93/Mole) - macOS 终端工具，用于清理、卸载、分析、优化和监控系统。`Shell` `MIT`
 - [tproxy](https://github.com/kevwan/tproxy) - 用于代理和分析 TCP 连接的 CLI 调试工具。`Go` `MIT`
@@ -145,7 +146,7 @@
 - [Architecture Diagram Generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Claude skill，用于生成独立 HTML 和 SVG 系统架构图。`HTML` `MIT`
 - [Frontend Slides](https://github.com/zarazhangrui/frontend-slides) - 面向 coding agent 的 Web 幻灯片框架，用前端方式生成演示文稿。`JavaScript` `MIT`
 - [Onlook](https://github.com/onlook-dev/onlook) - AI-first 可视化编辑器，用于构建、样式化和编辑 React 应用。`TypeScript` `Apache-2.0`
-- [OpenUI](https://github.com/wandb/openui) - 实时 UI 生成工具，可把界面描述渲染为可编辑组件。`TypeScript` `Apache-2.0`
+- [OpenUI](https://github.com/wandb/openui) - 实时 UI 生成工具，可把界面描述渲染为可编辑组件。`TypeScript` `MIT`
 - [Screenshot to Code](https://github.com/abi/screenshot-to-code) - 把截图转换成 HTML、Tailwind、React 或 Vue 实现。`TypeScript` `MIT`
 - [Assistant UI](https://github.com/assistant-ui/assistant-ui) - 用于构建 AI chat 和 assistant 界面的 React 组件库。`TypeScript` `MIT`
 - [Creative Tim UI](https://github.com/creativetimofficial/ui) - 开源组件、区块和 agent，通过 registry 与 MCP workflow 暴露给开发工具。`TypeScript` `MIT`
