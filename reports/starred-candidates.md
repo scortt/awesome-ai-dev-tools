@@ -1,7 +1,7 @@
 # Starred Repository Candidates
 
 - GitHub user: `scortt`
-- Generated: `2026-06-15 09:02 UTC`
+- Generated: `2026-06-22 09:04 UTC`
 - Candidate count: `75`
 - Already listed and skipped: `95`
 - Archived or disabled skipped: `7`
@@ -35,7 +35,7 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp `Go` `MIT` _(starred: 2026-03-02T17:30:49Z; matched: cli, terminal)_
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - No description. `Swift` `MIT` _(starred: 2026-03-01T16:10:46Z; matched: cli)_
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - No description. `Rust` `License: see repository` _(starred: 2026-02-25T07:41:22Z; matched: cli)_
-- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - AI-native CLI for the Longbridge trading platform with real-time market data, portfolio, and trading... `Rust` `MIT` _(starred: 2026-02-17T07:24:11Z; matched: cli, terminal)_
+- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - AI-native CLI for the Longbridge trading platform with real-time market data, portfolio, and trading... `Rust` `Apache-2.0` _(starred: 2026-02-17T07:24:11Z; matched: cli, terminal)_
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom. `TypeScript` `MIT` _(starred: 2025-10-01T07:07:51Z; matched: cli)_
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. `TypeScript` `AGPL-3.0` _(starred: 2024-11-08T16:11:38Z; matched: cli)_
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API `Python` `MIT` _(starred: 2024-10-20T05:48:21Z; matched: deploy)_
