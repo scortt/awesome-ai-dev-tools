@@ -1,8 +1,8 @@
 # Starred Repository Candidates
 
 - GitHub user: `scortt`
-- Generated: `2026-06-22 09:04 UTC`
-- Candidate count: `75`
+- Generated: `2026-06-29 01:02 UTC`
+- Candidate count: `79`
 - Already listed and skipped: `95`
 - Archived or disabled skipped: `7`
 
@@ -21,6 +21,7 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 
 ## Agent Operations And Maintenance
 
+- [luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill) - Skill for Agent automating JianYing (CapCut Chinese version) video editing. `Python` `MIT` _(starred: 2026-06-25T12:27:48Z; matched: skill)_
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills `JavaScript` `License: see repository` _(starred: 2026-04-03T10:51:29Z; matched: skill)_
 
 ## Agent Runtimes And Frameworks
@@ -29,6 +30,7 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 
 ## Developer CLI And Terminal Tools
 
+- [Henktorius/float](https://github.com/Henktorius/float) - Floating window terminal multiplexer `Rust` `License: see repository` _(starred: 2026-06-25T11:45:10Z; matched: terminal)_
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. `Dart` `License: see repository` _(starred: 2026-03-16T13:20:30Z; matched: cli, proxy)_
 - [N1XA-CLI/niku](https://github.com/N1XA-CLI/niku) - Niku, a minimal and fully functional Niri Rice `Python` `License: see repository` _(starred: 2026-03-07T15:51:23Z; matched: cli)_
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 `Python` `MIT` _(starred: 2026-03-05T19:18:54Z; matched: cli)_
@@ -101,6 +103,8 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 
 ## Docs, Knowledge, And RAG
 
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. `Python` `MIT` _(starred: 2026-06-23T14:07:28Z; matched: ocr)_
+- [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) - Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） `HTML` `License: see repository` _(starred: 2026-06-23T13:40:45Z; matched: pdf)_
 - [davidhoo/MarkdownReader](https://github.com/davidhoo/MarkdownReader) - A quiet native macOS Markdown reader built with SwiftUI, cmark-gfm & WKWebView. Three-column layout with file tree, rendered markdown, and outline navigation. Mermaid, KaTeX, PlantUML, Prism.js, 33 themes, i18n, PDF export, and more. `Swift` `License: see repository` _(starred: 2026-06-11T18:10:16Z; matched: markdown, pdf)_
 - [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. `Jupyter Notebook` `License: see repository` _(starred: 2026-06-02T12:05:45Z; matched: dataset)_
 - [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL. `Python` `Apache-2.0` _(starred: 2026-04-01T09:24:32Z; matched: semantic search)_
