@@ -1,8 +1,8 @@
 # Starred Repository Candidates
 
 - GitHub user: `scortt`
-- Generated: `2026-06-29 01:02 UTC`
-- Candidate count: `79`
+- Generated: `2026-07-06 01:01 UTC`
+- Candidate count: `81`
 - Already listed and skipped: `95`
 - Archived or disabled skipped: `7`
 
@@ -11,6 +11,7 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 
 ## Coding Agents And AI IDEs
 
+- [GaosCode/PlanWeave](https://github.com/GaosCode/PlanWeave) - PlanWeave is a file-backed loop engineering system for long-running coding agents. It turns fuzzy plans into claimable tasks, routes them through implementation and review agents, records every run, and keeps the loop recoverable. `TypeScript` `MIT` _(starred: 2026-07-05T16:24:58Z; matched: coding agent)_
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill `Language: see repository` `MIT` _(starred: 2026-06-02T12:24:39Z; matched: codex)_
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. `Python` `MIT` _(starred: 2026-02-28T03:11:11Z; matched: claude code, codex)_
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research `TypeScript` `License: see repository` _(starred: 2025-10-17T04:39:18Z; matched: autonomous agent)_
@@ -58,6 +59,7 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 
 ## 3D And Asset Generation
 
+- [andyhuo520/aetherviz-master](https://github.com/andyhuo520/aetherviz-master) - AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页 `Language: see repository` `MIT` _(starred: 2026-06-29T01:44:25Z; matched: 3d)_
 - [sirojudinMunir/3D-printed-cycloidal-actuator](https://github.com/sirojudinMunir/3D-printed-cycloidal-actuator) - No description. `Language: see repository` `MIT` _(starred: 2026-05-26T07:03:45Z; matched: 3d)_
 - [icurtis1/off-axis-sneaker](https://github.com/icurtis1/off-axis-sneaker) - A real-time head-tracking 3D viewer that creates an immersive "Johnny Chung Lee" style head-coupled perspective effect. `TypeScript` `License: see repository` _(starred: 2026-03-25T07:04:03Z; matched: 3d)_
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine `C++` `MIT` _(starred: 2023-05-29T18:32:04Z; matched: 3d)_
@@ -90,7 +92,7 @@ The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING
 ## Prompt, Context, And Memory
 
 - [EverMind-AI/MSA](https://github.com/EverMind-AI/MSA) - Memory Sparse Attention -  A scalable, end-to-end trainable latent-memory framework for 100M-token contexts. `Python` `License: see repository` _(starred: 2026-03-19T11:29:09Z; matched: memory)_
-- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) - The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows. `Shell` `License: see repository` _(starred: 2026-02-28T12:45:52Z; matched: prompt)_
+- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) - The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows. `Shell` `MIT` _(starred: 2026-02-28T12:45:52Z; matched: prompt)_
 - [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) - 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows. `TypeScript` `License: see repository` _(starred: 2026-02-27T05:59:59Z; matched: prompt)_
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source. `TypeScript` `License: see repository` _(starred: 2026-02-27T05:59:35Z; matched: prompt)_
 - [Robert-van-Engelen/tinylisp](https://github.com/Robert-van-Engelen/tinylisp) - Lisp in 99 lines of C and how to write one yourself. Includes 21 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use. `C` `BSD-3-Clause` _(starred: 2025-08-22T04:49:35Z; matched: memory)_
