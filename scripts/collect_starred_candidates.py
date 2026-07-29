@@ -18,7 +18,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-README_FILES = [ROOT / "README.md", ROOT / "README.zh-CN.md"]
+LIST_FILES = [ROOT / "README.md", ROOT / "README.zh-CN.md", ROOT / "TUTORIALS.md"]
 
 KEYWORDS_BY_CATEGORY = {
     "Coding Agents And AI IDEs": [
@@ -215,7 +215,7 @@ def repo_payload(item: dict) -> dict:
 def existing_urls() -> set[str]:
     urls: set[str] = set()
     pattern = re.compile(r"https://github\.com/[^)\s]+")
-    for path in README_FILES:
+    for path in LIST_FILES:
         if path.exists():
             urls.update(pattern.findall(path.read_text()))
     return urls

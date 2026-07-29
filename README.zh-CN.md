@@ -80,6 +80,9 @@
 
 - [Keep Codex Fast](https://github.com/vibeforge1111/keep-codex-fast) - 备份优先的 Codex skill，用于检查、交接、归档和恢复本地 Codex 状态，避免不安全删除。`Python` `MIT`
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - 本地优先的 TUI 与 CLI，用于跨工具审计 coding-agent 会话的成本、Token、延迟、失败和健康状态。`Rust` `MIT`
+- [Codex App Mirror](https://github.com/Wangnov/codex-app-mirror) - 可验证的镜像和更新源，用于在 macOS 与 Windows 安装官方 Codex 桌面应用。`Shell` `MIT`
+- [PlanWeave](https://github.com/GaosCode/PlanWeave) - 文件驱动的任务循环，用于在长期 coding-agent 会话中协调实现与审查。`TypeScript` `MIT`
+- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) - 面向 Codex、Claude Code 和兼容工具的可复用科研 agent skills 与数据库集成。`Python` `MIT`
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) - 单文件 Claude Code 指南，把实用的 coding-agent 行为规则沉淀为 CLAUDE.md。`License: see repository`
 - [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - 面向游戏开发角色和流程的 Claude Code 智能体与 skill 协作系统。`Shell` `MIT`
 - [Claude HUD](https://github.com/jarrodwatts/claude-hud) - Claude Code 插件，用于显示上下文使用量、工具活动、运行中的智能体和 todo 进度。`JavaScript` `MIT`
@@ -110,6 +113,7 @@
 - [FastMCP](https://github.com/jlowin/fastmcp) - 用于快速构建 MCP server 的 Python 框架。`Python` `Apache-2.0`
 - [Unity MCP](https://github.com/CoplayDev/unity-mcp) - MCP 桥接器，让 AI assistant 能检查资产、控制场景、编辑脚本并自动化 Unity Editor 工作。`C#` `MIT`
 - [TradingView MCP](https://github.com/atilaahmettaner/tradingview-mcp) - MCP server，把市场筛选、技术指标和图表上下文暴露给 AI assistant。`Python` `MIT`
+- [ShipSwift](https://github.com/signerlabs/ShipSwift) - 通过 MCP 向 coding agent 提供 SwiftUI 组件和全栈开发方案。`Swift` `MIT`
 
 ## 代码库搜索与索引
 
@@ -152,6 +156,9 @@
 - [Screenshot to Code](https://github.com/abi/screenshot-to-code) - 把截图转换成 HTML、Tailwind、React 或 Vue 实现。`TypeScript` `MIT`
 - [Assistant UI](https://github.com/assistant-ui/assistant-ui) - 用于构建 AI chat 和 assistant 界面的 React 组件库。`TypeScript` `MIT`
 - [Creative Tim UI](https://github.com/creativetimofficial/ui) - 开源组件、区块和 agent，通过 registry 与 MCP workflow 暴露给开发工具。`TypeScript` `MIT`
+- [Text to CAD](https://github.com/earthtojake/text-to-cad) - 用于生成 CAD、机器人和硬件设计产物的 agent skills，支持 STEP、STL、GLB 与 URDF 等格式。`JavaScript` `MIT`
+- [Three.js Object Sculptor](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) - Codex 插件，可把参考图像转换为纯代码、可制作动画的程序化 Three.js 模型。`Python` `MIT`
+- [Penrose](https://github.com/penrose/penrose) - 文本化图表系统，可从结构化符号生成精确的数学和技术视觉产物。`TypeScript` `MIT`
 
 ## 3D 与资产生成
 
@@ -188,6 +195,7 @@
 - [llm.c](https://github.com/karpathy/llm.c) - 小型 C/CUDA LLM 训练实现，用于理解和修改模型内部机制。`Cuda` `MIT`
 - [llama2.c](https://github.com/karpathy/llama2.c) - 极简 C 版 Llama 2 推理实现，适合研究可移植本地模型运行时。`C` `MIT`
 - [tinygrad](https://github.com/tinygrad/tinygrad) - 小型神经网络框架和编译器栈，用于本地模型实验。`Python` `MIT`
+- [NVIDIA Cosmos](https://github.com/NVIDIA/cosmos) - 提供模型、数据集和工具的世界模型平台，用于构建 Physical AI 系统。`Jupyter Notebook` `License: see repository`
 
 ## 音频与多模态工作流
 
@@ -196,6 +204,8 @@
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - 开源语音模型项目，用于语音生成实验。`Python` `MIT`
 - [ChatTTS](https://github.com/2noise/ChatTTS) - 面向对话式 TTS 工作流的生成式语音模型。`Python` `AGPL-3.0`
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Few-shot 声音克隆和文本转语音工具包。`Python` `MIT`
+- [VoxCPM](https://github.com/OpenBMB/VoxCPM) - 多语言无 tokenizer 文本转语音工具包，支持语音生成、声音设计和克隆。`Python` `Apache-2.0`
+- [Gemini Multimodal Playground](https://github.com/saharmor/gemini-multimodal-playground) - 使用 Gemini API 构建实时语音和视频 agent 的示例应用。`TypeScript` `Apache-2.0`
 
 ## 提示词、上下文与记忆
 
@@ -206,6 +216,7 @@
 - [Guidance](https://github.com/guidance-ai/guidance) - 用结构化提示词和程序化约束控制 LLM 生成的语言。`Jupyter Notebook` `MIT`
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - 用示例生成、测试和排序提示词的 notebook 工作流。`Jupyter Notebook` `MIT`
 - [memU](https://github.com/NevaMind-AI/memU) - 面向长期运行主动智能体的记忆层。`Python` `License: see repository`
+- [Memory Sparse Attention](https://github.com/EverMind-AI/MSA) - 可训练的潜在记忆框架，用于实验超长模型上下文。`Python` `License: see repository`
 
 ## 文档、知识与 RAG
 
@@ -222,6 +233,13 @@
 - [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) - PDF parser，用于生成 AI-ready 和可访问性友好的文档数据。`Java` `Apache-2.0`
 - [GMFT](https://github.com/conjuncts/gmft) - 轻量表格抽取库，用于文档摄取和 RAG 预处理。`Python` `MIT`
 - [Zerox](https://github.com/getomni-ai/zerox) - 基于视觉模型的 OCR 和文档抽取工具包。`TypeScript` `MIT`
+- [Unlimited OCR](https://github.com/baidu/Unlimited-OCR) - 长周期 OCR 系统，用单次处理工作流解析大型文档。`Python` `MIT`
+- [SentrySearch](https://github.com/ssrajadh/sentrysearch) - 使用 Gemini Embedding 2 或 Qwen3-VL 的语义视频搜索 pipeline。`Python` `Apache-2.0`
+- [GPTPDF](https://github.com/CosmosShadow/gptpdf) - 使用 GPT 抽取能力解析 PDF 文档的 Python 工具包。`Python` `MIT`
+- [LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - 使用 Vision Transformer 把公式图像转换为 LaTeX 的工具包。`Python` `MIT`
+- [Nougat](https://github.com/facebookresearch/nougat) - 把学术文档转换为机器可读标记的神经 OCR 系统。`Python` `MIT`
+- [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - 保留文本和布局的 PDF 到 HTML 转换器，适合下游文档处理 pipeline。`HTML` `License: see repository`
+- [CnSTD](https://github.com/breezedeus/CnSTD) - 中文和英文场景文字、数学公式及文档版面检测工具包。`Python` `Apache-2.0`
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - 面向大规模搜索、网页抓取、爬取和浏览器交互的 API 与服务。`TypeScript` `AGPL-3.0`
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - LLM 友好的网页爬虫和抓取工具，用于抽取结构化网页上下文。`Python` `Apache-2.0`
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - TypeScript 库，用 LLM 把网页转换成结构化数据。`TypeScript` `MIT`

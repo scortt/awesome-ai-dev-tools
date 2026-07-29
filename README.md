@@ -81,6 +81,9 @@ Preferred entry format:
 
 - [Keep Codex Fast](https://github.com/vibeforge1111/keep-codex-fast) - Backup-first Codex skill for inspecting, handing off, archiving, and recovering local Codex state without unsafe deletion. `Python` `MIT`
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI and CLI for auditing coding-agent sessions across tools, including cost, tokens, latency, failures, and health. `Rust` `MIT`
+- [Codex App Mirror](https://github.com/Wangnov/codex-app-mirror) - Verifiable mirror and update feed for installing the official Codex desktop app on macOS and Windows. `Shell` `MIT`
+- [PlanWeave](https://github.com/GaosCode/PlanWeave) - File-backed task loop for coordinating implementation and review across long-running coding-agent sessions. `TypeScript` `MIT`
+- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Reusable agent skills and database integrations for scientific research workflows in Codex, Claude Code, and compatible tools. `Python` `MIT`
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) - Single-file Claude Code guidance distilled into practical coding-agent behavior rules. `License: see repository`
 - [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Agent and skill system for coordinating Claude Code across game-development roles and workflows. `Shell` `MIT`
 - [Claude HUD](https://github.com/jarrodwatts/claude-hud) - Claude Code plugin for surfacing context usage, tool activity, running agents, and todo progress. `JavaScript` `MIT`
@@ -111,6 +114,7 @@ Preferred entry format:
 - [FastMCP](https://github.com/jlowin/fastmcp) - Python framework for building MCP servers quickly. `Python` `Apache-2.0`
 - [Unity MCP](https://github.com/CoplayDev/unity-mcp) - MCP bridge that lets AI assistants inspect assets, control scenes, edit scripts, and automate Unity Editor work. `C#` `MIT`
 - [TradingView MCP](https://github.com/atilaahmettaner/tradingview-mcp) - MCP server for exposing market screening, technical indicators, and chart context to AI assistants. `Python` `MIT`
+- [ShipSwift](https://github.com/signerlabs/ShipSwift) - SwiftUI component library and full-stack recipes exposed to coding agents through MCP. `Swift` `MIT`
 
 ## Codebase Search And Indexing
 
@@ -153,6 +157,9 @@ Preferred entry format:
 - [Screenshot to Code](https://github.com/abi/screenshot-to-code) - Converts screenshots into HTML, Tailwind, React, or Vue implementations. `TypeScript` `MIT`
 - [Assistant UI](https://github.com/assistant-ui/assistant-ui) - React component library for building AI chat and assistant interfaces. `TypeScript` `MIT`
 - [Creative Tim UI](https://github.com/creativetimofficial/ui) - Open source components, blocks, and agents exposed through registry and MCP workflows. `TypeScript` `MIT`
+- [Text to CAD](https://github.com/earthtojake/text-to-cad) - Agent skills for generating CAD, robotics, and hardware-design artifacts in formats such as STEP, STL, GLB, and URDF. `JavaScript` `MIT`
+- [Three.js Object Sculptor](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) - Codex plugin that turns reference images into code-only, animation-ready procedural Three.js models. `Python` `MIT`
+- [Penrose](https://github.com/penrose/penrose) - Text-based diagramming system for generating precise mathematical and technical visuals from structured notation. `TypeScript` `MIT`
 
 ## 3D And Asset Generation
 
@@ -189,6 +196,7 @@ Preferred entry format:
 - [llm.c](https://github.com/karpathy/llm.c) - Small C and CUDA implementation of LLM training for understanding and modifying model internals. `Cuda` `MIT`
 - [llama2.c](https://github.com/karpathy/llama2.c) - Minimal C implementation of Llama 2 inference useful for studying portable local model runtimes. `C` `MIT`
 - [tinygrad](https://github.com/tinygrad/tinygrad) - Small neural-network framework and compiler stack for local model experimentation. `Python` `MIT`
+- [NVIDIA Cosmos](https://github.com/NVIDIA/cosmos) - World-model platform with models, datasets, and tools for building physical-AI systems. `Jupyter Notebook` `License: see repository`
 
 ## Audio And Multimodal Workflows
 
@@ -197,6 +205,8 @@ Preferred entry format:
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open source voice model project for speech-generation experiments. `Python` `MIT`
 - [ChatTTS](https://github.com/2noise/ChatTTS) - Generative speech model for dialogue-style text-to-speech workflows. `Python` `AGPL-3.0`
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Few-shot voice cloning and text-to-speech toolkit. `Python` `MIT`
+- [VoxCPM](https://github.com/OpenBMB/VoxCPM) - Multilingual tokenizer-free text-to-speech toolkit supporting speech generation, voice design, and cloning. `Python` `Apache-2.0`
+- [Gemini Multimodal Playground](https://github.com/saharmor/gemini-multimodal-playground) - Example application for building realtime voice and video agents with the Gemini API. `TypeScript` `Apache-2.0`
 
 ## Prompt, Context, And Memory
 
@@ -207,6 +217,7 @@ Preferred entry format:
 - [Guidance](https://github.com/guidance-ai/guidance) - Language for controlling LLM generation with structured prompts and programmatic constraints. `Jupyter Notebook` `MIT`
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer) - Notebook workflow for generating, testing, and ranking prompts against examples. `Jupyter Notebook` `MIT`
 - [memU](https://github.com/NevaMind-AI/memU) - Memory layer for long-running proactive agents. `Python` `License: see repository`
+- [Memory Sparse Attention](https://github.com/EverMind-AI/MSA) - Trainable latent-memory framework for experimenting with extremely long model contexts. `Python` `License: see repository`
 
 ## Docs, Knowledge, And RAG
 
@@ -223,6 +234,13 @@ Preferred entry format:
 - [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) - PDF parser for creating AI-ready and accessibility-aware document data. `Java` `Apache-2.0`
 - [GMFT](https://github.com/conjuncts/gmft) - Lightweight table-extraction library for document ingestion and RAG preprocessing. `Python` `MIT`
 - [Zerox](https://github.com/getomni-ai/zerox) - Vision-model based OCR and document extraction toolkit. `TypeScript` `MIT`
+- [Unlimited OCR](https://github.com/baidu/Unlimited-OCR) - Long-horizon OCR system for parsing large documents in a single processing workflow. `Python` `MIT`
+- [SentrySearch](https://github.com/ssrajadh/sentrysearch) - Semantic video-search pipeline using Gemini Embedding 2 or Qwen3-VL. `Python` `Apache-2.0`
+- [GPTPDF](https://github.com/CosmosShadow/gptpdf) - Python toolkit for parsing PDF documents with GPT-backed extraction. `Python` `MIT`
+- [LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - Vision Transformer toolkit for converting equation images into LaTeX. `Python` `MIT`
+- [Nougat](https://github.com/facebookresearch/nougat) - Neural OCR system for converting academic documents into machine-readable markup. `Python` `MIT`
+- [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - PDF-to-HTML converter that preserves text and layout for downstream document-processing pipelines. `HTML` `License: see repository`
+- [CnSTD](https://github.com/breezedeus/CnSTD) - Chinese and English scene-text, formula, and document-layout detection toolkit. `Python` `Apache-2.0`
 - [Firecrawl](https://github.com/firecrawl/firecrawl) - API and service for search, web scraping, crawling, and browser interaction at scale. `TypeScript` `AGPL-3.0`
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - LLM-friendly web crawler and scraper for extracting structured web context. `Python` `Apache-2.0`
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - TypeScript library for turning webpages into structured data with LLMs. `TypeScript` `MIT`

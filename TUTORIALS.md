@@ -31,6 +31,7 @@
 
 ## Agents, MCP And AI Coding
 
+- [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) - Codex 中文入门、配置和实战案例指南。`HTML` `License: see repository`
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Model Context Protocol 入门课程，覆盖多语言示例和安全 AI workflow。`Jupyter Notebook` `MIT`
 - [openai/openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Computer-Using Agent API 示例应用。`TypeScript` `MIT`
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - GitHub Copilot 结对编程课程。`Python` `MIT`
