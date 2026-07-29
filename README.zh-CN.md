@@ -79,6 +79,7 @@
 ## 智能体运维与维护
 
 - [Keep Codex Fast](https://github.com/vibeforge1111/keep-codex-fast) - 备份优先的 Codex skill，用于检查、交接、归档和恢复本地 Codex 状态，避免不安全删除。`Python` `MIT`
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - 本地优先的 TUI 与 CLI，用于跨工具审计 coding-agent 会话的成本、Token、延迟、失败和健康状态。`Rust` `MIT`
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) - 单文件 Claude Code 指南，把实用的 coding-agent 行为规则沉淀为 CLAUDE.md。`License: see repository`
 - [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - 面向游戏开发角色和流程的 Claude Code 智能体与 skill 协作系统。`Shell` `MIT`
 - [Claude HUD](https://github.com/jarrodwatts/claude-hud) - Claude Code 插件，用于显示上下文使用量、工具活动、运行中的智能体和 todo 进度。`JavaScript` `MIT`
@@ -112,8 +113,6 @@
 
 ## 代码库搜索与索引
 
-- [Sourcegraph Cody](https://github.com/sourcegraph/cody) - 基于代码搜索和仓库上下文的 AI 代码助手。`TypeScript` `Apache-2.0`
-- [Grep App](https://github.com/grep-app/grep) - 快速源码搜索服务，适合智能体和人工进行代码导航。`Go` `MIT`
 - [Serena](https://github.com/oraios/serena) - 面向 coding agent 的工具包，专注语义代码检索和编辑。`Python` `MIT`
 - [Repomix](https://github.com/yamadashy/repomix) - 把整个仓库打包成 AI 友好的文件，用于向 LLM 和 coding agent 提供代码库上下文。`TypeScript` `MIT`
 - [Devv](https://github.com/devv-ai/devv) - 面向开发者的 AI 搜索引擎，用于查找实现细节、API 和工程参考。`License: see repository`

@@ -80,6 +80,7 @@ Preferred entry format:
 ## Agent Operations And Maintenance
 
 - [Keep Codex Fast](https://github.com/vibeforge1111/keep-codex-fast) - Backup-first Codex skill for inspecting, handing off, archiving, and recovering local Codex state without unsafe deletion. `Python` `MIT`
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI and CLI for auditing coding-agent sessions across tools, including cost, tokens, latency, failures, and health. `Rust` `MIT`
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) - Single-file Claude Code guidance distilled into practical coding-agent behavior rules. `License: see repository`
 - [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Agent and skill system for coordinating Claude Code across game-development roles and workflows. `Shell` `MIT`
 - [Claude HUD](https://github.com/jarrodwatts/claude-hud) - Claude Code plugin for surfacing context usage, tool activity, running agents, and todo progress. `JavaScript` `MIT`
@@ -113,8 +114,6 @@ Preferred entry format:
 
 ## Codebase Search And Indexing
 
-- [Sourcegraph Cody](https://github.com/sourcegraph/cody) - AI coding assistant backed by code search and repository context. `TypeScript` `Apache-2.0`
-- [Grep App](https://github.com/grep-app/grep) - Fast source-code search service useful for agent and human code navigation. `Go` `MIT`
 - [Serena](https://github.com/oraios/serena) - Coding-agent toolkit focused on semantic code retrieval and editing. `Python` `MIT`
 - [Repomix](https://github.com/yamadashy/repomix) - Packs a repository into an AI-friendly file for sharing codebase context with LLMs and coding agents. `TypeScript` `MIT`
 - [Devv](https://github.com/devv-ai/devv) - AI-powered developer search engine for finding implementation details, APIs, and engineering references. `License: see repository`
