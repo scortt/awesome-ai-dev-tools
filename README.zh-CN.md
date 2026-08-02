@@ -144,6 +144,7 @@
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - 单二进制 Office 文档工具，让 AI agent 无需 Microsoft Office 也能创建、检查、编辑和渲染 Word、Excel、PowerPoint。`C#` `Apache-2.0`
 - [Guizang PPT Skill](https://github.com/op7418/guizang-ppt-skill) - Claude Code 和 Codex skill，用于从提示词生成单文件横滑 HTML 幻灯片、演示视觉和社交封面。`HTML` `MIT`
 - [Impeccable](https://github.com/pbakaus/impeccable) - 设计语言和指南，用于改善 AI 生成的产品界面。`JavaScript` `Apache-2.0`
+- [Anime.js](https://github.com/juliangarnier/anime) - 模块化动画引擎，用于为 agent 生成的 Web 界面添加 CSS、SVG、DOM 和 JavaScript 动效。`JavaScript` `MIT`
 - [Awesome Design Skills](https://github.com/bergside/awesome-design-skills) - 面向设计型 coding agent 的 DESIGN.md 和 SKILL.md 文件合集。`MIT`
 - [Awesome Design.md](https://github.com/VoltAgent/awesome-design-md) - 品牌设计系统文件集合，帮助 coding agent 生成匹配品牌的 UI。`MIT`
 - [Architecture Diagram Generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Claude skill，用于生成独立 HTML 和 SVG 系统架构图。`HTML` `MIT`

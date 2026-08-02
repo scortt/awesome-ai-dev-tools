@@ -145,6 +145,7 @@ Preferred entry format:
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - Single-binary Office document toolkit that lets AI agents create, inspect, edit, and render Word, Excel, and PowerPoint files without Microsoft Office. `C#` `Apache-2.0`
 - [Guizang PPT Skill](https://github.com/op7418/guizang-ppt-skill) - Claude Code and Codex skill for generating single-file horizontal-swipe HTML decks, presentation visuals, and social covers from prompts. `HTML` `MIT`
 - [Impeccable](https://github.com/pbakaus/impeccable) - Design language and guidance for improving AI-generated product interfaces. `JavaScript` `Apache-2.0`
+- [Anime.js](https://github.com/juliangarnier/anime) - Modular animation engine for adding CSS, SVG, DOM, and JavaScript motion to agent-generated web interfaces. `JavaScript` `MIT`
 - [Awesome Design Skills](https://github.com/bergside/awesome-design-skills) - Curated DESIGN.md and SKILL.md files for design-focused coding agents. `MIT`
 - [Awesome Design.md](https://github.com/VoltAgent/awesome-design-md) - Collection of brand design-system files that help coding agents produce matching UI. `MIT`
 - [Architecture Diagram Generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Claude skill for generating standalone HTML and SVG system architecture diagrams. `HTML` `MIT`
