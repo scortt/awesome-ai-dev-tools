@@ -18,7 +18,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-README_FILES = [ROOT / "README.md", ROOT / "README.zh-CN.md"]
+LIST_FILES = [ROOT / "README.md", ROOT / "README.zh-CN.md", ROOT / "TUTORIALS.md"]
 
 KEYWORDS_BY_CATEGORY = {
     "Coding Agents And AI IDEs": [
@@ -173,6 +173,8 @@ def run_gh_api(user: str) -> list[dict]:
         "gh",
         "api",
         "--paginate",
+        "--header",
+        "Accept: application/vnd.github.star+json",
         f"/users/{user}/starred?per_page=100",
         "--jq",
         ".[] | @json",
@@ -200,10 +202,20 @@ def run_gh_api(user: str) -> list[dict]:
     return repos
 
 
+def repo_payload(item: dict) -> dict:
+    """Handle both GitHub's star+json envelope and plain repository payloads."""
+    repo = item.get("repo")
+    if isinstance(repo, dict):
+        normalized = dict(repo)
+        normalized["starred_at"] = item.get("starred_at")
+        return normalized
+    return item
+
+
 def existing_urls() -> set[str]:
     urls: set[str] = set()
     pattern = re.compile(r"https://github\.com/[^)\s]+")
-    for path in README_FILES:
+    for path in LIST_FILES:
         if path.exists():
             urls.update(pattern.findall(path.read_text()))
     return urls
@@ -249,34 +261,20 @@ def language_text(repo: dict) -> str:
 
 
 def render_report(user: str, repos: list[dict]) -> str:
-    known = existing_urls()
-    rows_by_category: dict[str, list[tuple[dict, list[str]]]] = {}
-    skipped_known = 0
-    skipped_archived = 0
-
-    for repo in repos:
-        url = repo.get("html_url") or ""
-        if url in known:
-            skipped_known += 1
-            continue
-        if repo.get("archived") or repo.get("disabled"):
-            skipped_archived += 1
-            continue
-        category, reasons = classify(repo)
-        if not category:
-            continue
-        rows_by_category.setdefault(category, []).append((repo, reasons))
+    candidates, summary = collect_candidates(repos)
+    rows_by_category: dict[str, list[dict]] = {}
+    for candidate in candidates:
+        rows_by_category.setdefault(candidate["category"], []).append(candidate)
 
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    total = sum(len(rows) for rows in rows_by_category.values())
     lines = [
         "# Starred Repository Candidates",
         "",
         f"- GitHub user: `{user}`",
         f"- Generated: `{now}`",
-        f"- Candidate count: `{total}`",
-        f"- Already listed and skipped: `{skipped_known}`",
-        f"- Archived or disabled skipped: `{skipped_archived}`",
+        f"- Candidate count: `{summary['candidate_count']}`",
+        f"- Already listed and skipped: `{summary['skipped_known']}`",
+        f"- Archived or disabled skipped: `{summary['skipped_archived']}`",
         "",
         "Review these manually before adding them to `README.md` and `README.zh-CN.md`.",
         "The generator uses keyword hints only; final inclusion must follow `CONTRIBUTING.md`.",
@@ -288,21 +286,79 @@ def render_report(user: str, repos: list[dict]) -> str:
         if not rows:
             continue
         lines.extend([f"## {category}", ""])
-        rows.sort(key=lambda item: (item[0].get("full_name") or "").lower())
-        for repo, reasons in rows:
-            name = repo.get("full_name") or "unknown"
-            url = repo.get("html_url") or ""
-            description = (repo.get("description") or "No description.").strip()
-            language = language_text(repo)
-            license_name = license_text(repo)
-            reason_text = ", ".join(reasons)
+        for candidate in rows:
+            starred_at = candidate.get("starred_at") or "unknown"
+            reason_text = ", ".join(candidate["matched_keywords"])
             lines.append(
-                f"- [{name}]({url}) - {description} "
-                f"`{language}` `{license_name}` _(matched: {reason_text})_"
+                f"- [{candidate['full_name']}]({candidate['html_url']}) - "
+                f"{candidate['description']} `{candidate['language']}` "
+                f"`{candidate['license']}` _(starred: {starred_at}; matched: {reason_text})_"
             )
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
+
+
+def collect_candidates(repos: list[dict]) -> tuple[list[dict], dict]:
+    known = existing_urls()
+    candidates: list[dict] = []
+    skipped_known = 0
+    skipped_archived = 0
+
+    for raw_repo in repos:
+        repo = repo_payload(raw_repo)
+        url = repo.get("html_url") or ""
+        if url in known:
+            skipped_known += 1
+            continue
+        if repo.get("archived") or repo.get("disabled"):
+            skipped_archived += 1
+            continue
+        category, reasons = classify(repo)
+        if not category:
+            continue
+        candidates.append(
+            {
+                "full_name": repo.get("full_name") or "unknown",
+                "html_url": url,
+                "description": (repo.get("description") or "No description.").strip(),
+                "language": language_text(repo),
+                "license": license_text(repo),
+                "category": category,
+                "matched_keywords": reasons,
+                "starred_at": repo.get("starred_at"),
+                "pushed_at": repo.get("pushed_at"),
+                "updated_at": repo.get("updated_at"),
+                "homepage": repo.get("homepage"),
+                "topics": repo.get("topics") or [],
+            }
+        )
+
+    candidates.sort(
+        key=lambda candidate: (
+            1 if candidate.get("starred_at") else 0,
+            candidate.get("starred_at") or "",
+            candidate.get("full_name") or "",
+        ),
+        reverse=True,
+    )
+    summary = {
+        "candidate_count": len(candidates),
+        "skipped_known": skipped_known,
+        "skipped_archived": skipped_archived,
+    }
+    return candidates, summary
+
+
+def render_json(user: str, repos: list[dict]) -> str:
+    candidates, summary = collect_candidates(repos)
+    payload = {
+        "github_user": user,
+        "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+        **summary,
+        "candidates": candidates,
+    }
+    return json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
 
 
 def main() -> None:
@@ -313,6 +369,11 @@ def main() -> None:
         default="reports/starred-candidates.md",
         help="Path relative to repository root.",
     )
+    parser.add_argument(
+        "--json-output",
+        default="reports/starred-candidates.json",
+        help="Machine-readable candidate output path relative to repository root.",
+    )
     args = parser.parse_args()
 
     repos = run_gh_api(args.user)
@@ -320,6 +381,10 @@ def main() -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(render_report(args.user, repos))
     print(f"wrote {output}")
+    json_output = ROOT / args.json_output
+    json_output.parent.mkdir(parents=True, exist_ok=True)
+    json_output.write_text(render_json(args.user, repos))
+    print(f"wrote {json_output}")
 
 
 if __name__ == "__main__":
