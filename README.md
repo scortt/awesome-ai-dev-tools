@@ -89,6 +89,7 @@ Preferred entry format:
 - [GStack](https://github.com/garrytan/gstack) - Claude Code setup with role-specific tools for design, engineering management, release, docs, and QA. `TypeScript` `MIT`
 - [Remodex](https://github.com/Emanuele-web04/remodex) - Remote-control client for operating Codex sessions from macOS. `Swift` `Apache-2.0`
 - [Happy](https://github.com/slopus/happy) - Mobile and web client for Codex and Claude Code with realtime voice and encrypted sessions. `TypeScript` `MIT`
+- [Sillage](https://github.com/MarlBurroW/sillage) - Self-hosted, mobile-first web UI that drives the Claude Code and Codex CLIs on your machine, with server-side sessions that outlive the client, full-text search, and an IDE panel with diffs and terminal. `TypeScript` `MIT`
 
 ## Agent Runtimes And Frameworks
 
