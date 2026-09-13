@@ -88,6 +88,7 @@
 - [GStack](https://github.com/garrytan/gstack) - Claude Code 配置集，提供设计、工程管理、发布、文档和 QA 等角色工具。`TypeScript` `MIT`
 - [Remodex](https://github.com/Emanuele-web04/remodex) - 用于从 macOS 远程控制 Codex 会话的客户端。`Swift` `Apache-2.0`
 - [Happy](https://github.com/slopus/happy) - Codex 和 Claude Code 的移动端与 Web 客户端，支持实时语音和加密会话。`TypeScript` `MIT`
+- [YYLO](https://github.com/yylo-dev/yylo) - 面向 coding agent 的命令行编排器，提供 Kanban 任务状态、按任务独立的 git worktree、类型化验证和合并编排。`Python` `MIT`
 
 ## 智能体运行时与框架
 
