@@ -195,6 +195,7 @@ Preferred entry format:
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - Open source voice model project for speech-generation experiments. `Python` `MIT`
 - [ChatTTS](https://github.com/2noise/ChatTTS) - Generative speech model for dialogue-style text-to-speech workflows. `Python` `AGPL-3.0`
 - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Few-shot voice cloning and text-to-speech toolkit. `Python` `MIT`
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first CLI and MCP toolkit for coding agents to compose, edit, and generate videos from editable plan.json timelines. `TypeScript` `MIT`
 
 ## Prompt, Context, And Memory
 
