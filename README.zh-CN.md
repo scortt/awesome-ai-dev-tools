@@ -189,6 +189,8 @@
 
 ## 音频与多模态工作流
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - 本地优先的 CLI 与 MCP 工具包，让编程智能体通过可编辑的 plan.json 时间线编排、剪辑和生成视频。`TypeScript` `MIT`
+
 - [Voice Pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI，支持语音识别、翻译、字幕生成、TTS、声音克隆和多语言配音工作流。`Python` `GPL-3.0`
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Whisper 语音识别的本地 C/C++ 运行时。`C++` `MIT`
 - [VibeVoice](https://github.com/microsoft/VibeVoice) - 开源语音模型项目，用于语音生成实验。`Python` `MIT`
