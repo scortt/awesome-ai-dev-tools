@@ -77,6 +77,8 @@
 
 ## 智能体运维与维护
 
+- [Orkas](https://github.com/Orkas-AI/Orkas) - 开源、本地优先的桌面 AI 工作区，由 Commander 通过一个对话协调专业智能体和本地编程智能体。`TypeScript` `MIT`
+
 - [Keep Codex Fast](https://github.com/vibeforge1111/keep-codex-fast) - 备份优先的 Codex skill，用于检查、交接、归档和恢复本地 Codex 状态，避免不安全删除。`Python` `MIT`
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) - 单文件 Claude Code 指南，把实用的 coding-agent 行为规则沉淀为 CLAUDE.md。`License: see repository`
 - [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - 面向游戏开发角色和流程的 Claude Code 智能体与 skill 协作系统。`Shell` `MIT`
