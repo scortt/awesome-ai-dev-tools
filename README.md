@@ -208,6 +208,8 @@ Preferred entry format:
 
 ## Docs, Knowledge, And RAG
 
+- [AIKS](https://github.com/Sunan869/aiks) - Local-first desktop knowledge base that reads AI coding-agent session histories and extracts searchable, source-linked knowledge. `Rust` `MIT`
+
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for connecting LLM applications to private and domain-specific data. `Python` `MIT`
 - [Haystack](https://github.com/deepset-ai/haystack) - Framework for building search, RAG, and agentic knowledge applications. `Python` `Apache-2.0`
 - [DocsGPT](https://github.com/arc53/DocsGPT) - Open source assistant for querying documentation and internal knowledge. `Python` `MIT`
